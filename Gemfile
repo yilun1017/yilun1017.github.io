@@ -1,4 +1,4 @@
-source "http://gems.ruby-china.com/"
+source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -8,7 +8,8 @@ source "http://gems.ruby-china.com/"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem 'github-pages', group: :jekyll_plugins
+gem "jekyll", "~> 3.8.4"
+gem "rake", "~> 13.0.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
