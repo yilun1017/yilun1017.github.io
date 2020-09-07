@@ -3,7 +3,7 @@ layout: post
 title: "摇摆然后坚定的8月"
 date: 2020-08-30
 categories:
-  - 月度总结
+  - sss
 description:
 image: https://picsum.photos/2000/1200?image=190
 image-sm: https://picsum.photos/500/300?image=190
