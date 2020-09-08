@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.4"
 gem "rake", "~> 13.0.1"
+gem 'github-pages'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
