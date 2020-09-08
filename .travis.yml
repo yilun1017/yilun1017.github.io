@@ -4,7 +4,6 @@ sudo: false
 
 install:
   - gem install bundler
-  - gem install octopress-autoprefixer
   - bundle install
 
 script:
