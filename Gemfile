@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
-gem "octopress-autoprefixer", "~> 2.0.1"
+gem "rake", "~> 13.0.1"
+gem "octopress-autoprefixer"
 
 
 # If you have any plugins, put them here!
