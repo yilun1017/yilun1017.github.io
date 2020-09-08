@@ -1,9 +1,23 @@
-language ruby
-rvm
- - 2.6
- - jruby
+language: ruby
+cache: bundler
+sudo: false
 
+install:
+  - gem install bundler
+  - bundle install
 
- os:
-  - linux
-  - osx
+script:
+  - env JEKYLL_ENV=production bundle exec jekyll build
+
+after_success:
+  - touch ./_site/.nojekyll
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  keep-history: true
+  on:
+    branch: master
+  github-token: $GITHUB_TOKEN
+  local-dir: _site
+  committer-from-gh: true
