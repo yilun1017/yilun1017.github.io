@@ -18,6 +18,6 @@ deploy:
   keep-history: true
   on:
     branch: master
-  github-token: $GITHUB_TOKEN
+  github-token: $HE_Key_DEPLOY_TOKEN
   local-dir: _site
   committer-from-gh: true

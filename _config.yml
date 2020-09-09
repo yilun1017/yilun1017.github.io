@@ -36,6 +36,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - .travis.yml
+  - vendor
 
 # Pagination
 paginate: 5
