@@ -1,3 +1,16 @@
+safe: false
+lsi: false
+pygments: true
+
+relative_source: https://github.com/yilun1017/yilun1017.github.io.git
+destination: /yilun1017/
+
+username: yilun1017
+repo: https://github.com/yilun1017/yilun1017.github.io.git
+branch: master
+
+
+
 # Site/SEO settings
 email: 
 permalink: /:year/:month/:day/:title/
