@@ -220,6 +220,7 @@ namespace :site do
     sh "bundle exec jekyll build"
 
     desc "Build Jekyll site and copy files"
+    sh "ls"
     sh "rm -r ./#{GH_PAGES_DIR}/*" unless Dir['./#{GH_PAGES_DIR}/*'].empty?
     sh "cp -r _site/category/* ./#{GH_PAGES_DIR}/"
 
