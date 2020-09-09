@@ -2,7 +2,7 @@ safe: false
 lsi: false
 pygments: true
 
-relative_source: https://github.com/yilun1017/yilun1017.github.io.git
+relative_source: /yilun1017/
 destination: /yilun1017/
 
 username: yilun1017
