@@ -14,7 +14,7 @@ on:
     branches: [ master ]
 
 jobs:
-  test:
+  build:
 
     runs-on: ubuntu-latest
 
@@ -34,6 +34,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_PAGES }}
       run: |
         sudo apt install -y git
+        gem install rake
 
         git config --global url."https://".insteadOf git://
         git config --global url."https://github.com/".insteadOf git@github.com:
