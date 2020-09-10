@@ -17,7 +17,7 @@ require 'yaml'
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"] || ENV['GIT_NAME']
 REPO = CONFIG["repo"] || "#{USERNAME}.github.io"
-GEN_DIR = "CONFIG["destination"]/category"
+GEN_DIR = CONFIG["destination"] || "category"
 GH_PAGES_DIR = "category"
 
 # Determine source and destination branch
