@@ -12,8 +12,6 @@ script:
 env:
   global:
     secure: sample
-    GIT_NAME: yilun1017
-    GIT_EMAIL: louyilun@126.com
 
 
 # deploy:
