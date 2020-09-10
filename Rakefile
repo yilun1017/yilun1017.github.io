@@ -220,8 +220,8 @@ namespace :site do
     sh "rm -r #{GEN_DIR}/#{GH_PAGES_DIR}/*" unless Dir['#{GEN_DIR}/#{GH_PAGES_DIR}/*'].empty?
     sh "cp -r #{GEN_DIR}/#{GH_PAGES_DIR}/* ./#{GH_PAGES_DIR}/"
 
-    sh "ls"
-    sh "ls ./category/"
+    # sh "ls"
+    # sh "ls ./category/"
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
