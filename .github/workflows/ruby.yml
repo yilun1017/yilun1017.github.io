@@ -9,9 +9,9 @@ name: pages
 
 on:
   push:
-    branches: [ master ]
+    branches: [ blog ]
   pull_request:
-    branches: [ master ]
+    branches: [ blog ]
 
 jobs:
   build:
@@ -57,5 +57,5 @@ jobs:
         git config user.email "github-actions-bot@users.noreply.github.com"
         git add .
         git commit -m "Deploy GitHub Pages"
-        git push --force "${remote_repo}" master
+        git push --force "${remote_repo}" master:${remote_branch}
       
