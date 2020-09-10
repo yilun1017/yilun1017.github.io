@@ -45,13 +45,11 @@ jobs:
         git submodule update --init --recursive
         remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
         remote_branch=master
-        ls
         bundle exec jekyll build
+        
         sudo rm -rf ./category
-        echo "ssssssss"
         ls ./_site
         sudo cp -rf ./_site/category ./
-        echo  "jahjahah"
         
         git init
         git config user.name "github-actions-bot"
