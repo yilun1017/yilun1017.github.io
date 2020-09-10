@@ -11,7 +11,9 @@ script:
 
 env:
   global:
-    secure: EXAMPLE
+    secure: sample
+    GIT_NAME: yilun1017
+    GIT_EMAIL: louyilun@126.com
 
 
 # deploy:
@@ -23,3 +25,4 @@ env:
 #   github-token: $HE_Key_DEPLOY_TOKEN
 #   local-dir: _site
 #   committer-from-gh: true
+#   travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
