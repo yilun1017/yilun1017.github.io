@@ -32,7 +32,7 @@ jobs:
     - name: Run a multi-line script
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_PAGES }}
-      run: 
+      run: |
         sudo apt install -y git
 
         git config --global url."https://".insteadOf git://
@@ -42,8 +42,9 @@ jobs:
         remote_branch=master
         
         bundle exec rake build
+        mkdir ./category
+        cp ./_site/category ./category 
         cd public
-        touch .nojekyll
         git init
         git config user.name "github-actions-bot"
         git config user.email "github-actions-bot@users.noreply.github.com"
