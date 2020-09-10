@@ -49,8 +49,15 @@ jobs:
         ls
         sudo mkdir -p ./category
         ls
-        sudo rm -r ./category/*
+        DIRECTORY = "./category"
+        if [ "`ls -A $DIRECTORY`" = "" ]; then 
+            echo "$DIRECTORY is indeed empty"
+        else 
+            "sudo rm -r $DIRECTORY*"
+        echo "ssssssss"
         ls
+        DIRECTORY = ./category/
+        
         sudo cp ./_site/category* ./category 
         cd public
         git init
