@@ -34,7 +34,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_PAGES }}
       run: |
         sudo apt install -y git
-        gem install jekyll
+        sudo gem install jekyll
 
         git config --global url."https://".insteadOf git://
         git config --global url."https://github.com/".insteadOf git@github.com:
