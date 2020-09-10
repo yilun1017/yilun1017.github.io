@@ -50,6 +50,7 @@ jobs:
         echo "ssssssss"
         ls ./_site
         sudo cp -rf ./_site/category ./
+        echo  "jahjahah"
         cd public
         git init
         git config user.name "github-actions-bot"
