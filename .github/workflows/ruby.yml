@@ -15,11 +15,15 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # change this to (see https://github.com/ruby/setup-ruby#versioning):
@@ -34,15 +38,15 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_PAGES }}
       run: |
         sudo apt install -y git
-        sudo gem install jekyll
 
         git config --global url."https://".insteadOf git://
         git config --global url."https://github.com/".insteadOf git@github.com:
         git submodule update --init --recursive
         remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
         remote_branch=master
-        
+        ls
         bundle exec jekyll build
+        ls
         sudo mkdir -p ./category
         sudo rm - r ./category/*
         sudo cp ./_site/category* ./category 
