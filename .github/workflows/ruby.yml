@@ -9,9 +9,9 @@ name: pages
 
 on:
   push:
-    branches: [ blog ]
+    branches: [ gh-pages ]
   pull_request:
-    branches: [ blog ]
+    branches: [ gh-pages ]
 
 jobs:
   build:
