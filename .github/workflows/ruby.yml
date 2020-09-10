@@ -34,7 +34,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_PAGES }}
       run: |
         sudo apt install -y git
-        gem install rake
+        gem install jekyll
 
         git config --global url."https://".insteadOf git://
         git config --global url."https://github.com/".insteadOf git@github.com:
@@ -42,8 +42,9 @@ jobs:
         remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
         remote_branch=master
         
-        bundle exec rake build
-        mkdir ./category
+        bundle exec jekyll build
+        mkdir -p ./category
+        rm - r ./category
         cp ./_site/category ./category 
         cd public
         git init
