@@ -46,7 +46,7 @@ jobs:
         remote_branch=master
         ls
         bundle exec jekyll build
-        ls ..
+        ls
         sudo mkdir -p ./category
         sudo rm - r ./category/*
         sudo cp ./_site/category* ./category 
