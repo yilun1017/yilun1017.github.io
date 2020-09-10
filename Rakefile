@@ -221,11 +221,12 @@ namespace :site do
     sh "bundle exec jekyll build"
 
     desc "Build Jekyll site and copy files"
-    sh "ls ../yilun1017/"
-    sh "ls"
     sh "mkdir ./#{GH_PAGES_DIR}/"
     sh "rm -r #{GEN_DIR}/*" unless Dir['#{GEN_DIR}/*'].empty?
     sh "cp -r #{GEN_DIR}/* ./#{GH_PAGES_DIR}/"
+
+    sh "ls"
+    sh "ls ./category/"
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
