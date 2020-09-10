@@ -46,11 +46,10 @@ jobs:
         remote_branch=master
         ls
         bundle exec jekyll build
-        sudo mkdir -p ./category
-        sudo rm -rf ./category/*
+        sudo rm -rf ./category
         echo "ssssssss"
-        ls
-        sudo cp -rf ./_site/category/ ./
+        ls ./_site
+        sudo cp -rf ./_site/category ./
         cd public
         git init
         git config user.name "github-actions-bot"
