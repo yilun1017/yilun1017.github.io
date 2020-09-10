@@ -9,9 +9,9 @@ name: pages
 
 on:
   push:
-    branches: [ blog ]
+    branches: [ master ]
   pull_request:
-    branches: [ blog ]
+    branches: [ master ]
 
 jobs:
   build:
