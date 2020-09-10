@@ -49,16 +49,10 @@ jobs:
         ls
         sudo mkdir -p ./category
         ls
-        DIRECTORY = "./category"
-        if [ "`ls -A $DIRECTORY`" = "" ]; then 
-            echo "$DIRECTORY is indeed empty"
-        else 
-            "sudo rm -r $DIRECTORY*"
+        sudo rm -rf ./category/*
         echo "ssssssss"
         ls
-        DIRECTORY = ./category/
-        
-        sudo cp ./_site/category* ./category 
+        sudo cp ./_site/category/* ./category 
         cd public
         git init
         git config user.name "github-actions-bot"
