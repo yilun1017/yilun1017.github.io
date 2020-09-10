@@ -13,11 +13,6 @@ env:
   global:
     secure: EXAMPLE
 
-after_success:
-  - touch ./_site/.nojekyll
-
-
-
 
 # deploy:
 #   provider: pages

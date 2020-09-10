@@ -17,6 +17,7 @@ require 'yaml'
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"] || ENV['GIT_NAME']
 REPO = CONFIG["repo"] || "#{USERNAME}.github.io"
+GEN_DIR = "CONFIG["destination"]/category"
 GH_PAGES_DIR = "category"
 
 # Determine source and destination branch
@@ -221,8 +222,8 @@ namespace :site do
 
     desc "Build Jekyll site and copy files"
     sh "ls ../yilun1017/"
-    sh "rm -r ./#{GH_PAGES_DIR}/*" unless Dir['./#{GH_PAGES_DIR}/*'].empty?
-    sh "cp -r _site/category/* ./#{GH_PAGES_DIR}/"
+    sh "rm -r #{GEN_DIR}/*" unless Dir['#{GEN_DIR}/*'].empty?
+    sh "cp -r #{GEN_DIR}/* ./#{GH_PAGES_DIR}/"
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
