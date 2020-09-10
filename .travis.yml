@@ -11,7 +11,7 @@ script:
 
 env:
   global:
-    secure: sample
+    secure: $HE_Key_DEPLOY_TOKEN
 
 
 # deploy:
