@@ -48,7 +48,7 @@ jobs:
         bundle exec jekyll build
         ls
         sudo mkdir -p ./category
-        sudo rm - r ./category/*
+        sudo rm -r ./category/*
         sudo cp ./_site/category* ./category 
         cd public
         git init
