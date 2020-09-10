@@ -12,7 +12,7 @@ require 'yaml'
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"] || ENV['GIT_NAME']
 REPO = CONFIG["repo"] || "#{USERNAME}.github.io"
-GEN_DIR = "{#CONFIG.destination}category"
+GEN_DIR = CONFIG["destination"]
 GH_PAGES_DIR = "category"
 
 # Determine source and destination branch
@@ -217,8 +217,8 @@ namespace :site do
 
     desc "Build Jekyll site and copy files"
     sh "mkdir ./#{GH_PAGES_DIR}/"
-    sh "rm -r #{GEN_DIR}/*" unless Dir['#{GEN_DIR}/*'].empty?
-    sh "cp -r #{GEN_DIR}/* ./#{GH_PAGES_DIR}/"
+    sh "rm -r #{GEN_DIR}/#{GH_PAGES_DIR}/*" unless Dir['#{GEN_DIR}/#{GH_PAGES_DIR}/*'].empty?
+    sh "cp -r #{GEN_DIR}/#{GH_PAGES_DIR}/* ./#{GH_PAGES_DIR}/"
 
     sh "ls"
     sh "ls ./category/"
