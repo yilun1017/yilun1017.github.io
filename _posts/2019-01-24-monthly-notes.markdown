@@ -47,8 +47,8 @@ image-sm: https://picsum.photos/500/300?image=190
 
 <figure>
   <img src="https://github.com/yilun1017/blog-img/blob/master/2019-01-24-monthly-notes/1.jpeg?raw=true" alt="Placeholder"/>
+  <img src="https://github.com/yilun1017/blog-img/blob/master/2019-01-24-monthly-notes/2.jpeg?raw=true" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
-
 
 2019年1月24日
