@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "妥协才是人生常态"
-date: 2018-06-29
+date: 2020-01-08
 categories:
   - 寻找伊甸园
 description:
