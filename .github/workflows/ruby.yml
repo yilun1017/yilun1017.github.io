@@ -15,21 +15,15 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-lates
+    
     steps:
-    - uses: actions/checkout@v1
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@108b3a2c8a79ce6a8b5402c2f7d242009737bdf0
+    - name: Setup Ruby
+    - uses: ruby/setup-ruby@v1.45.0
       with:
         ruby-version: 2.6
-    - name: Install dependencies
-      run: bundle install
+        bundler-cache: ture
+    
     - uses: actions/checkout@v2
     - name: Run a multi-line script
       env:
