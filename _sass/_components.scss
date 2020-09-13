@@ -492,8 +492,121 @@
   border-radius:10px;
   width:90%;
   margin:auto;
-  padding:3%;
+  padding:3% 5% 3% 5%;
 }
+
+
+.muli-fig {
+  width: 95%;
+  background-color: #f8f9f9;
+  position:relative;
+}
+
+.half-up {
+  height: 50%;
+  position: absolute;
+  top: 1%;
+}
+
+.half-down {
+  height: 50%;
+  position: absolute;
+  bottom: 1%;
+}
+
+.half-left{
+  width: 50%;
+  float: left;
+
+}
+
+.half-right{
+  width: 50%;
+  float: right;
+}
+
+.three-left {
+  width: 30%;
+  float: left;
+}
+
+.three-right {
+  width: 30%;
+  float: right;
+}
+
+.seven-left {
+  width: 70%;
+  float: left;
+}
+
+.seven-right {
+  width: 70%;
+  float: right;
+}
+
+.four-left {
+  width: 30%;
+  float: left;
+}
+
+.four-right {
+  width: 30%;
+  float: right;
+}
+
+.six-left {
+  width: 70%;
+  float: left;
+}
+
+.six-right {
+  width: 70%;
+  float: right;
+}
+
+
+
+
+
+.three-layout-container{
+  width:100%;
+  height:100%;
+  border:1px solid;
+  display:flex;        
+}
+.three-layout-left{
+  width:100px; height:100%;
+
+  flex:none;
+}
+.three-layout-middle{
+  width: auto;
+  height: 100%;
+  flex:1;
+}
+.three-layout-right{
+  height:100%;
+  width: 100px;
+  flex:none;        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /**
