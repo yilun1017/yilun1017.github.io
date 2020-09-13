@@ -50,16 +50,22 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div class="muli-fig">
   <div class="three-left">
-    <figure  class="half-up">
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/6.jpg?raw=true" alt="Placeholder"/>
-    </figure>
-    <figure  class="half-down">
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/7.jpg?raw=true" alt="Placeholder"/>
+    <div class="half-up">
+      <figure>
+        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/6.jpg?raw=true" alt="Placeholder"/>
+      </figure>
+    </div>
+    <div  class="half-down">
+      <figure>
+        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/7.jpg?raw=true" alt="Placeholder"/>
+      </figure>
+    <div>
+  </div>
+  <div class="seven-right">
+    <figure>
+      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/8.jpg?raw=true" alt="Placeholder"/>
     </figure>
   </div>
-  <figure  class="seven-right">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/8.jpg?raw=true" alt="Placeholder"/>
-  </figure>
 <div>
 
 <ul>
