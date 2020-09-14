@@ -12,8 +12,9 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <figure>
   <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/1.jpg?raw=true" alt="Placeholder"/>
+</figure>
+<figure>
   <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/2.jpg?raw=true" alt="Placeholder"/>
-  <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
 <ul>
@@ -25,18 +26,16 @@ image-sm: https://picsum.photos/500/300?image=101
   <li>花艺工作非常危险</li>
 </ul>
 与美丽的花朵不同，花艺专用的剪刀非常锋利，更别提花刀这个选项。但是做一个简单的作品，都需要动用300-400次的剪刀，可以说有很大的安全隐患。除此之外，花艺师为了保持手的敏感，不建议带上手套。有时为了追求效率，用手去处理花材。裸手与高频率地使用剪刀都让这份芳香的工作显得不那么美好。
-<div class="muli-fig">
-  <div class="half-left">
-    <figure>
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/3.jpg?raw=true" alt="Placeholder"/>
-    </figure>
-  </div>
-  <div class="half-right">
-  <figure>
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/4.jpg?raw=true" alt="Placeholder"/>
-    </figure>
-  </div>
-<div>
+
+<div class="nav-fig">
+  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/3.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+  </figure>
+  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/4.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+  </figure>
+</div>
+
 <figure>
       <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/5.jpg?raw=true" alt="Placeholder"/>
 </figure>
@@ -48,25 +47,22 @@ image-sm: https://picsum.photos/500/300?image=101
 
 除了花材知识，花艺师还需要练习手。让脑海中的形象变成实际，中间隔着千万次的练习。有时插错了角度破坏了整体造型，插得太浅花会失水而死，插得太深会导致花枝打架。除此之外，在插的过程中，还要仔细阅读花的表情。就是花是如何生长的，让他们面朝上，而不是垂下来无精打采。这个要求，让我意识到自己其实一直都没有注意周围的草木是如何生长的，他们的枝条是怎么展开的，树叶又是如何排布的。
 
-<div class="muli-fig">
-  <div class="three-left">
-    <div class="half-up">
-      <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/6.jpg?raw=true" alt="Placeholder"/>
-      </figure>
-    </div>
-    <div  class="half-down">
-      <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/7.jpg?raw=true" alt="Placeholder"/>
-      </figure>
-    <div>
-  </div>
-  <div class="seven-right">
-    <figure>
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/8.jpg?raw=true" alt="Placeholder"/>
+<div class="nav-fig">
+  <div style="width:40%; height:100%; margin:1%; overflow:hidden">
+    <figure style="width:100%; height:40%; margin:5px; overflow:hidden">
+      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/6.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    </figure>
+    <figure style="width:100%; height:60%; margin:5px; overflow:hidden">
+      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/7.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
     </figure>
   </div>
-<div>
+  <figure style="width:65%; height:100%; margin:0; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/8.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+  </figure>
+</div>
+
+
+
 
 <ul>
   <li>花的自由与经历的心流感</li>
@@ -77,30 +73,34 @@ image-sm: https://picsum.photos/500/300?image=101
 <figure>
   <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/9.jpg?raw=true" alt="Placeholder"/>
 </figure>
-<div class="muli-fig">
-  <figure class="half-left">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/10.jpg?raw=true" alt="Placeholder"/>
+<div class="nav-fig">
+  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/10.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
-  <figure class="half-right">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/11.jpg?raw=true" alt="Placeholder"/>
+  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/11.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
-<div>
+</div>
 
 <ul>
   <li>磨练你的审美与直觉</li>
 </ul>
 在外教课程中，我看到日本老师的做花过程行云流水，而且他只要一看就知道如何修改意见作品。看似很简单的操作，在我的手里就难于登天。为什么呢？我觉得这就是审美的差距，老师的潜意识能更快地判断美的标准，知道在哪个细微的部分出了错，但是我一定要到问题足够大的时候，才能看出来。为了达到更高的水准，花艺师必须不断地看优秀的作品，磨练自己审美能力。
 
-
-
-
-<figure  class= "nav-fig">
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/12.jpg?raw=true" alt="Placeholder"/>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/13.jpg?raw=true" alt="Placeholder"/>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/14.jpg?raw=true" alt="Placeholder"/>
-</figure>
+<div  class= "nav-fig">
+  <figure style="width:30%; height:100%; margin:5px; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/12.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+  </figure>
+  <figure style="width:45%; height:100%; margin:5px; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/13.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+  </figure>
+  <figure style="width:30%; height:100%; margin:5px; overflow:hidden">
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/14.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+  </figure>
+</div>
 
 
 花艺师的体验非常有趣，我想继续下去。通过花的语言，我没准能成为一位艺术家呢？
 
+ 
 Yilun

@@ -457,11 +457,11 @@
   }
 
   img {
-    margin: 2em 1em 2em 1em;
+    margin: 1em 1em 1em 1em;
   }
 
   figure {
-    margin: 2em 0;
+    margin: 0.5em 0 0.5em 0;
   }
 
   figure > img {
@@ -490,11 +490,20 @@
   border-color:rgb(180,180,180);
   background:rgb(230,230,230);
   border-radius:20px;
-  width:90%;
+  width:100%;
   margin-top: 10px;
   margin-bottom: 10px;
   padding:1% 3% 3% 3%;
   text-indent: 2em;
+}
+
+.nav-fig {
+  background: #f8f9f9;
+  width: 98%;
+  margin:0 auto;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
 }
 
 
