@@ -134,18 +134,21 @@ image-sm: https://picsum.photos/500/300?image=101
 随着艺术变得和普通人更近，不再那么阳春白雪、曲高和寡，许多奢侈品牌也想和艺术搭上边。
 
 服装设计师很早就有从艺术吸收灵感的传统，例如著名时尚设计师伊夫圣罗兰从德国艺术家Piet Mondrian的画作中得到灵感，在1965年设计了一系列的裙子。圣罗兰对设计的纯净非常重视，他体会到了Piet Mondrian的极度简单的线与颜色的组合中体现的平衡之美，并将这种美转移到了日常的服装之中。
-
-<figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-five-new-art-elephants/14.jpeg?raw=true" alt="Placeholder"/>
-  <figcaption>▲Yves Saint Laurent，Mondrian 系列成衣</figcaption>
-</figure>
+<div style="width:30%; margin:auto;">
+  <figure>
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-five-new-art-elephants/14.jpeg?raw=true" alt="Placeholder"/>
+    <figcaption>▲Yves Saint Laurent，Mondrian 系列成衣</figcaption>
+  </figure>
+</div>
 
 除了时尚设计师从艺术作品中汲取灵感，还有奢侈品牌直接与艺术家合作，推出相关的产品。例如村上隆与LV 长达十多年的合作，推出了爆款Multicolore Monogram系列包袋。有些人也许不知道村上隆，或者手袋背后的艺术，但是对于这个白底花色的LV 包袋却如数家珍。除了这次经典的合作，最近还有当代艺术家Jeff Koons与LV的大师系列手袋的合作。Jeff Koons在这次合作中，一方面结合了自己的长期创作的“Gazing Ball”系列作品，同时参考了将达芬奇、鲁本斯、提香、梵高、弗拉戈纳尔五位油画大师的作品，把它们作为印花印在LV的几个经典包袋上。
 
-<figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-five-new-art-elephants/15.jpeg?raw=true" alt="Placeholder"/>
-  <figcaption>▲Multicolore Monogram系列包袋</figcaption>
-</figure>
+<div style="width:90%; margin:auto;">
+  <figure>
+    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-five-new-art-elephants/15.jpeg?raw=true" alt="Placeholder"/>
+    <figcaption>▲Multicolore Monogram系列包袋</figcaption>
+  </figure>
+</div>
 
 <figure>
   <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-five-new-art-elephants/16.jpg?raw=true" alt="Placeholder"/>
