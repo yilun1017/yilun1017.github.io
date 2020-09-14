@@ -91,16 +91,15 @@ image-sm: https://picsum.photos/500/300?image=101
 </ul>
 在外教课程中，我看到日本老师的做花过程行云流水，而且他只要一看就知道如何修改意见作品。看似很简单的操作，在我的手里就难于登天。为什么呢？我觉得这就是审美的差距，老师的潜意识能更快地判断美的标准，知道在哪个细微的部分出了错，但是我一定要到问题足够大的时候，才能看出来。为了达到更高的水准，花艺师必须不断地看优秀的作品，磨练自己审美能力。
 
-<div class= "three-layout-container">
-    <figure class="three-layout-left">
+
+<div style="display:flex;flex-wrap:wrap;">
+  <div style="width:{{img.width*200/img.height}}px;flex-grow:{{img.width*200/img.height}}">
+    <div style="padding-bottom:{{img.height/img.width*100}}%">
       <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/12.jpg?raw=true" alt="Placeholder"/>
-    </figure>
-    <figure class="three-layout-middle">
       <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/13.jpg?raw=true" alt="Placeholder"/>
-    </figure>
-    <figure class="three-layout-right">
       <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/14.jpg?raw=true" alt="Placeholder"/>
-    </figure>
+    </div>
+  </div>
 </div>
 
 花艺师的体验非常有趣，我想继续下去。通过花的语言，我没准能成为一位艺术家呢？
