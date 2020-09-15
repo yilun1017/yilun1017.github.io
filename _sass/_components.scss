@@ -2,6 +2,83 @@
  * Tabs
  * On the Blog page for posts and categories
  */
+ $large: 1200px;
+ 
+ .wrapper {
+  border-radius:5%;
+  border-style:double; 
+  border-color: rgb(230,230,230);
+  background:rgb(230, 230, 250);
+  overflow: hidden;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 2fr 1fr;
+  grid-gap: 10px;
+
+  @media screen and (min-width: $large) {
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: auto;
+  }
+}
+.lil-nav {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  display: flex;
+  grid-row-start: 2;
+
+  @media screen and (min-width: $large) {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    display: block;
+    grid-row-start: auto;
+  }
+}
+
+.gallery {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  display: flex;
+
+  @media screen and (min-width: $large) {
+    display: block;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scroll-snap-type: y mandatory;
+  }
+}
+
+.lil-nav a {
+  height: 200px;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.lil-nav__img {
+  object-fit: cover;
+  filter: saturate(0);
+  transition: 0.3s ease all;
+  min-height: 50%;
+  max-height: 90%;
+}
+
+.lil-nav__img:hover {
+  transform: scale(1.05);
+  filter: saturate(1);
+}
+
+
+.gallery__img {
+  scroll-snap-align: start;
+  margin-bottom: 10px;
+  min-height: 50%;
+  max-height: 90%;
+  object-fit: cover;
+}
+
+
+
 .tabs {
   @extend %letter-spacing;
 
