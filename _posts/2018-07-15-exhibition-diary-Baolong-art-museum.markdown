@@ -8,18 +8,18 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post:
-  - https://i.loli.net/2020/09/19/gzoI9mNKqjF7WBQ.jpg
-  - https://i.loli.net/2020/09/19/6KfnQT4O8Jwh9Yo.jpg
-  - https://i.loli.net/2020/09/19/NIXe8UVCycq1dOW.jpg
-  - https://i.loli.net/2020/09/19/arkPDJb2ziB7dFg.jpg
-  - https://i.loli.net/2020/09/19/ofatqQevjnZX7bU.jpg
-  - https://i.loli.net/2020/09/19/V6j2Qhg8tsZkHN9.jpg
-  - https://i.loli.net/2020/09/19/aRHqlyKvUhjiwrZ.jpg
-  - https://i.loli.net/2020/09/19/KkgWTB7UDt48CoN.jpg
-  - https://i.loli.net/2020/09/19/2NlQxadurLFkYfv.jpg
-  - https://i.loli.net/2020/09/19/iOem2qhkzMQ7a4f.jpg
-  - https://i.loli.net/2020/09/19/BHcpx8gZah6zlEr.jpg
-  - https://i.loli.net/2020/09/19/6kTG3QPEacKFWOD.jpg
+  - https://i.loli.net/2020/09/19/gzoI9mNKqjF7WBQ.jpg
+  - https://i.loli.net/2020/09/19/6KfnQT4O8Jwh9Yo.jpg
+  - https://i.loli.net/2020/09/19/NIXe8UVCycq1dOW.jpg
+  - https://i.loli.net/2020/09/19/arkPDJb2ziB7dFg.jpg
+  - https://i.loli.net/2020/09/19/ofatqQevjnZX7bU.jpg
+  - https://i.loli.net/2020/09/19/V6j2Qhg8tsZkHN9.jpg
+  - https://i.loli.net/2020/09/19/aRHqlyKvUhjiwrZ.jpg
+  - https://i.loli.net/2020/09/19/KkgWTB7UDt48CoN.jpg
+  - https://i.loli.net/2020/09/19/2NlQxadurLFkYfv.jpg
+  - https://i.loli.net/2020/09/19/iOem2qhkzMQ7a4f.jpg
+  - https://i.loli.net/2020/09/19/BHcpx8gZah6zlEr.jpg
+  - https://i.loli.net/2020/09/19/6kTG3QPEacKFWOD.jpg
 ---
 <b>上海。</b>周日去刷了宝龙美术馆的《WANVELENGTH：出厂设置——沉浸式艺术体验大展》，这个站试图对物质本身到其生产过程，以及它们的循环生灭和可再生能力进行探讨，重新审视物质在日常生活中扮演的角色。
 

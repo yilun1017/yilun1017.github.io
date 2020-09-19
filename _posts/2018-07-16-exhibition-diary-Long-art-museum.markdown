@@ -8,24 +8,24 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post:
-    - https://i.loli.net/2020/09/19/F6rVniLCsGlgf2T.jpg
-    - https://i.loli.net/2020/09/19/GQ6ivC2qNDKVfcO.jpg
-    - https://i.loli.net/2020/09/19/q1mUsgtYMoxWFka.jpg
-    - https://i.loli.net/2020/09/19/NcGCwrzZvW12IUg.jpg
-    - https://i.loli.net/2020/09/19/FGCVktTrYpKgm7J.jpg
-    - https://i.loli.net/2020/09/19/KZo6zaqm5lvWhwC.jpg
-    - https://i.loli.net/2020/09/19/EzNo87SADlWKdQs.jpg
-    - https://i.loli.net/2020/09/19/l7x3DpEVhoadvrf.jpg
-    - https://i.loli.net/2020/09/19/iVKJqBTz4LsRS7U.jpg
-    - https://i.loli.net/2020/09/19/FdLXP9WTuhzxaUi.jpg
-    - https://i.loli.net/2020/09/19/Q5Cj94NFk6po3Ir.jpg
-    - https://i.loli.net/2020/09/19/X5ebnGfkAlWc9hT.jpg
-    - https://i.loli.net/2020/09/19/8O1rSqzFhBlGsHQ.jpg
-    - https://i.loli.net/2020/09/19/tZ9SQBly6fTWE3h.jpg
-    - https://i.loli.net/2020/09/19/YdXcbtHCye8j2Fr.jpg
-    - https://i.loli.net/2020/09/19/E1NtDYCJG5HvBPw.jpg
-    - https://i.loli.net/2020/09/19/9pDrNJ1XV52bwiM.jpg
-    - https://i.loli.net/2020/09/19/VSBQ6CIb4o1kOzx.jpg
+  - https://i.loli.net/2020/09/19/F6rVniLCsGlgf2T.jpg
+  - https://i.loli.net/2020/09/19/GQ6ivC2qNDKVfcO.jpg
+  - https://i.loli.net/2020/09/19/q1mUsgtYMoxWFka.jpg
+  - https://i.loli.net/2020/09/19/NcGCwrzZvW12IUg.jpg
+  - https://i.loli.net/2020/09/19/FGCVktTrYpKgm7J.jpg
+  - https://i.loli.net/2020/09/19/KZo6zaqm5lvWhwC.jpg
+  - https://i.loli.net/2020/09/19/EzNo87SADlWKdQs.jpg
+  - https://i.loli.net/2020/09/19/l7x3DpEVhoadvrf.jpg
+  - https://i.loli.net/2020/09/19/iVKJqBTz4LsRS7U.jpg
+  - https://i.loli.net/2020/09/19/FdLXP9WTuhzxaUi.jpg
+  - https://i.loli.net/2020/09/19/Q5Cj94NFk6po3Ir.jpg
+  - https://i.loli.net/2020/09/19/X5ebnGfkAlWc9hT.jpg
+  - https://i.loli.net/2020/09/19/8O1rSqzFhBlGsHQ.jpg
+  - https://i.loli.net/2020/09/19/tZ9SQBly6fTWE3h.jpg
+  - https://i.loli.net/2020/09/19/YdXcbtHCye8j2Fr.jpg
+  - https://i.loli.net/2020/09/19/E1NtDYCJG5HvBPw.jpg
+  - https://i.loli.net/2020/09/19/9pDrNJ1XV52bwiM.jpg
+  - https://i.loli.net/2020/09/19/VSBQ6CIb4o1kOzx.jpg
 ---
 <b>上海。</b>龙美术馆（西岸）的《转折点——中国当代艺术四十年》展示了自1978年以来，中国艺术的发展历程。展览分为四个章节：1978-1984，1990-1999，2000以后。这个展览的艺术品质量很高，大家都有其特色与美感，观看的时候我的审美又向外扩展了一点点，原来这么搭配也很美。
 

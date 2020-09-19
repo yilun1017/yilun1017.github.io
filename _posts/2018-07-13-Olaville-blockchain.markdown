@@ -8,10 +8,10 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post:
- - https://i.loli.net/2020/09/19/sOaQPDCNhp4A2TL.jpg
- - https://i.loli.net/2020/09/19/ZUkRbQaJL4OA2hi.jpg
- - https://i.loli.net/2020/09/19/RObJDufmTWraUh2.jpg
- - https://i.loli.net/2020/09/19/WsC1BNuFGXMyZiL.jpg
+  - https://i.loli.net/2020/09/19/sOaQPDCNhp4A2TL.jpg
+  - https://i.loli.net/2020/09/19/ZUkRbQaJL4OA2hi.jpg
+  - https://i.loli.net/2020/09/19/RObJDufmTWraUh2.jpg
+  - https://i.loli.net/2020/09/19/WsC1BNuFGXMyZiL.jpg
 ---
 <figure>
     <img src="{{ page.image-post[0] }}" alt="Placeholder"/>

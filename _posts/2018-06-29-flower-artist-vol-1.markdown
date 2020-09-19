@@ -8,25 +8,25 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post:
-  - https://i.loli.net/2020/09/19/pGFt72wyClIEAmU.jpg
-  - https://i.loli.net/2020/09/19/N7qn8RBhfyUaCuW.jpg
-  - https://i.loli.net/2020/09/19/yWBDGFKNd69hvMQ.jpg
-  - https://i.loli.net/2020/09/19/HSK35hjRMp7FXlN.jpg
-  - https://i.loli.net/2020/09/19/TQnDYc9ykvpb7Vr.jpg
-  - https://i.loli.net/2020/09/19/aWnr2HTlyGmKP7Z.jpg
-  - https://i.loli.net/2020/09/19/FXlskNfDg5tqRTI.jpg
-  - https://i.loli.net/2020/09/19/72Yckx85GFaIiVe.jpg
-  - https://i.loli.net/2020/09/19/27Ker3zQfJ8msLw.jpg
-  - https://i.loli.net/2020/09/19/cJI6OCQbB89P7e3.jpg
-  - https://i.loli.net/2020/09/19/Etk7hOuPTZp5fmb.jpg
-  - https://i.loli.net/2020/09/19/eixvWzyj95TZLh4.jpg
-  - https://i.loli.net/2020/09/19/l3uwoZNikWRnvg1.jpg
-  - https://i.loli.net/2020/09/19/DrdxTuSFMm43h7v.jpg
+  - https://i.loli.net/2020/09/19/pGFt72wyClIEAmU.jpg
+  - https://i.loli.net/2020/09/19/N7qn8RBhfyUaCuW.jpg
+  - https://i.loli.net/2020/09/19/yWBDGFKNd69hvMQ.jpg
+  - https://i.loli.net/2020/09/19/HSK35hjRMp7FXlN.jpg
+  - https://i.loli.net/2020/09/19/TQnDYc9ykvpb7Vr.jpg
+  - https://i.loli.net/2020/09/19/aWnr2HTlyGmKP7Z.jpg
+  - https://i.loli.net/2020/09/19/FXlskNfDg5tqRTI.jpg
+  - https://i.loli.net/2020/09/19/72Yckx85GFaIiVe.jpg
+  - https://i.loli.net/2020/09/19/27Ker3zQfJ8msLw.jpg
+  - https://i.loli.net/2020/09/19/cJI6OCQbB89P7e3.jpg
+  - https://i.loli.net/2020/09/19/Etk7hOuPTZp5fmb.jpg
+  - https://i.loli.net/2020/09/19/eixvWzyj95TZLh4.jpg
+  - https://i.loli.net/2020/09/19/l3uwoZNikWRnvg1.jpg
+  - https://i.loli.net/2020/09/19/DrdxTuSFMm43h7v.jpg
 ---
 女生都很喜欢花，我也不例外。每次去loblaw超市，带回来好几束花装饰家里，会让人觉得生活很有希望。所以，为什么不试一试当一名花艺师呢？想到了就去做，而且要铺长线，一步步实现自己的想法，是我的风格<!--break-->。仔细地计算自己的生活费后，我挤出了需要的学费（真贵！！尖叫】）。要学就学中国最好的，所以我就根据信任的博主的脚步，选择了北京的中赫花校。两周的课程，看起来很短，但是真的在其中经历时，却觉得极其漫长。
 
 <figure>
-  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
+  <img src="{{ page.image-post[0] }}" alt="{{ page.image-post[0] }}"/>
 </figure>
 <figure>
   <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
