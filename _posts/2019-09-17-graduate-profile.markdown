@@ -14,7 +14,7 @@ image-sm: https://picsum.photos/500/300?image=1082
 
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2019-09-17-graduate-profile/1.jpeg?raw=true" alt="Placeholder"/>
+  <img src="https://i.loli.net/2020/09/19/KUtwc2DpMfRZQE6.jpg" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 

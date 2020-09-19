@@ -7,6 +7,25 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post:
+    - https://i.loli.net/2020/09/19/F6rVniLCsGlgf2T.jpg
+    - https://i.loli.net/2020/09/19/GQ6ivC2qNDKVfcO.jpg
+    - https://i.loli.net/2020/09/19/q1mUsgtYMoxWFka.jpg
+    - https://i.loli.net/2020/09/19/NcGCwrzZvW12IUg.jpg
+    - https://i.loli.net/2020/09/19/FGCVktTrYpKgm7J.jpg
+    - https://i.loli.net/2020/09/19/KZo6zaqm5lvWhwC.jpg
+    - https://i.loli.net/2020/09/19/EzNo87SADlWKdQs.jpg
+    - https://i.loli.net/2020/09/19/l7x3DpEVhoadvrf.jpg
+    - https://i.loli.net/2020/09/19/iVKJqBTz4LsRS7U.jpg
+    - https://i.loli.net/2020/09/19/FdLXP9WTuhzxaUi.jpg
+    - https://i.loli.net/2020/09/19/Q5Cj94NFk6po3Ir.jpg
+    - https://i.loli.net/2020/09/19/X5ebnGfkAlWc9hT.jpg
+    - https://i.loli.net/2020/09/19/8O1rSqzFhBlGsHQ.jpg
+    - https://i.loli.net/2020/09/19/tZ9SQBly6fTWE3h.jpg
+    - https://i.loli.net/2020/09/19/YdXcbtHCye8j2Fr.jpg
+    - https://i.loli.net/2020/09/19/E1NtDYCJG5HvBPw.jpg
+    - https://i.loli.net/2020/09/19/9pDrNJ1XV52bwiM.jpg
+    - https://i.loli.net/2020/09/19/VSBQ6CIb4o1kOzx.jpg
 ---
 <b>上海。</b>龙美术馆（西岸）的《转折点——中国当代艺术四十年》展示了自1978年以来，中国艺术的发展历程。展览分为四个章节：1978-1984，1990-1999，2000以后。这个展览的艺术品质量很高，大家都有其特色与美感，观看的时候我的审美又向外扩展了一点点，原来这么搭配也很美。
 
@@ -19,79 +38,79 @@ image-sm: https://picsum.photos/500/300?image=101
 <div class="wrapper">
   <nav class="lil-nav">
     <a href="#image-1">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/1.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
     </a>
     <a href="#image-2">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/2.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[1] }}" alt="Placeholder"/>
     </a>
     <a href="#image-3">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/3.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[2] }}" alt="Placeholder"/>
     </a>
     <a href="#image-4">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/4.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[3] }}" alt="Placeholder"/>
     </a>
     <a href="#image-5">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/5.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[4] }}" alt="Placeholder"/>
     </a>
     <a href="#image-6">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/6.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[5] }}" alt="Placeholder"/>
     </a>
     <a href="#image-7">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/7.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[6] }}" alt="Placeholder"/>
     </a>
     <a href="#image-8">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/8.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[7] }}" alt="Placeholder"/>
     </a>
     <a href="#image-9">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/9.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[8] }}" alt="Placeholder"/>
     </a>
     <a href="#image-10">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/10.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[9] }}" alt="Placeholder"/>
     </a>
     <a href="#image-11">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/11.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[10] }}" alt="Placeholder"/>
     </a>
     <a href="#image-12">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/12.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[11] }}" alt="Placeholder"/>
     </a>
     <a href="#image-13">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/13.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[12] }}" alt="Placeholder"/>
     </a>
     <a href="#image-14">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/14.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[13] }}" alt="Placeholder"/>
     </a>
     <a href="#image-15">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/15.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[14] }}" alt="Placeholder"/>
     </a>
     <a href="#image-16">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/16.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[15] }}" alt="Placeholder"/>
     </a>
     <a href="#image-17">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/17.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[16] }}" alt="Placeholder"/>
     </a>
     <a href="#image-18">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/18.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[17] }}" alt="Placeholder"/>
     </a>
   </nav>
   <div class="gallery">
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/1.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/2.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/3.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/4.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/5.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/6.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/7.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/8.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/9.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/10.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/11.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/12.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/13.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/14.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/15.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/16.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/17.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-16-exhibition-diary-Long-art-museum/18.jpg?raw=true" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[1] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[2] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[3] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[4] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[5] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[6] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[7] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[8] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[9] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[10] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[11] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[12] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[13] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[14] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[15] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[16] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[17] }}" alt="Placeholder"/>
     </div>
 </div>
  

@@ -7,6 +7,19 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post:
+  - https://i.loli.net/2020/09/19/gzoI9mNKqjF7WBQ.jpg
+  - https://i.loli.net/2020/09/19/6KfnQT4O8Jwh9Yo.jpg
+  - https://i.loli.net/2020/09/19/NIXe8UVCycq1dOW.jpg
+  - https://i.loli.net/2020/09/19/arkPDJb2ziB7dFg.jpg
+  - https://i.loli.net/2020/09/19/ofatqQevjnZX7bU.jpg
+  - https://i.loli.net/2020/09/19/V6j2Qhg8tsZkHN9.jpg
+  - https://i.loli.net/2020/09/19/aRHqlyKvUhjiwrZ.jpg
+  - https://i.loli.net/2020/09/19/KkgWTB7UDt48CoN.jpg
+  - https://i.loli.net/2020/09/19/2NlQxadurLFkYfv.jpg
+  - https://i.loli.net/2020/09/19/iOem2qhkzMQ7a4f.jpg
+  - https://i.loli.net/2020/09/19/BHcpx8gZah6zlEr.jpg
+  - https://i.loli.net/2020/09/19/6kTG3QPEacKFWOD.jpg
 ---
 <b>上海。</b>周日去刷了宝龙美术馆的《WANVELENGTH：出厂设置——沉浸式艺术体验大展》，这个站试图对物质本身到其生产过程，以及它们的循环生灭和可再生能力进行探讨，重新审视物质在日常生活中扮演的角色。
 
@@ -18,55 +31,56 @@ image-sm: https://picsum.photos/500/300?image=101
 <div class="wrapper">
   <nav class="lil-nav">
     <a href="#image-1">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/1.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
     </a>
     <a href="#image-2">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/2.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[1] }}" alt="Placeholder"/>
     </a>
     <a href="#image-3">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/3.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[2] }}" alt="Placeholder"/>
     </a>
     <a href="#image-4">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/4.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[3] }}" alt="Placeholder"/>
     </a>
     <a href="#image-5">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/5.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[4] }}" alt="Placeholder"/>
     </a>
     <a href="#image-6">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/6.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[5] }}" alt="Placeholder"/>
     </a>
     <a href="#image-7">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/7.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[6] }}" alt="Placeholder"/>
     </a>
     <a href="#image-8">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/8.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[7] }}" alt="Placeholder"/>
     </a>
     <a href="#image-9">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/9.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[8] }}" alt="Placeholder"/>
     </a>
     <a href="#image-10">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/10.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[9] }}" alt="Placeholder"/>
     </a>
     <a href="#image-11">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/11.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[10] }}" alt="Placeholder"/>
     </a>
     <a href="#image-12">
-        <img class="lil-nav__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/12.jpg?raw=true" alt="Placeholder"/>
+        <img class="lil-nav__img" src="{{ page.image-post[11] }}" alt="Placeholder"/>
     </a>
   </nav>
   <div class="gallery">
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/1.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/2.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/3.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/4.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/5.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/6.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/7.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/8.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/9.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/10.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/11.jpg?raw=true" alt="Placeholder"/>
-        <img class="gallery__img" src="https://github.com/yilun1017/blog-img/blob/master/2018-07-15-exhibition-diary-Baolong-art-museum/12.jpg?raw=true" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[1] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[2] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[3] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[4] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[5] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[6] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[7] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[8] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[9] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[10] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[11] }}" alt="Placeholder"/>
+        <img class="gallery__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
     </div>
 </div>
 

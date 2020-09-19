@@ -7,14 +7,29 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post:
+  - https://i.loli.net/2020/09/19/pGFt72wyClIEAmU.jpg
+  - https://i.loli.net/2020/09/19/N7qn8RBhfyUaCuW.jpg
+  - https://i.loli.net/2020/09/19/yWBDGFKNd69hvMQ.jpg
+  - https://i.loli.net/2020/09/19/HSK35hjRMp7FXlN.jpg
+  - https://i.loli.net/2020/09/19/TQnDYc9ykvpb7Vr.jpg
+  - https://i.loli.net/2020/09/19/aWnr2HTlyGmKP7Z.jpg
+  - https://i.loli.net/2020/09/19/FXlskNfDg5tqRTI.jpg
+  - https://i.loli.net/2020/09/19/72Yckx85GFaIiVe.jpg
+  - https://i.loli.net/2020/09/19/27Ker3zQfJ8msLw.jpg
+  - https://i.loli.net/2020/09/19/cJI6OCQbB89P7e3.jpg
+  - https://i.loli.net/2020/09/19/Etk7hOuPTZp5fmb.jpg
+  - https://i.loli.net/2020/09/19/eixvWzyj95TZLh4.jpg
+  - https://i.loli.net/2020/09/19/l3uwoZNikWRnvg1.jpg
+  - https://i.loli.net/2020/09/19/DrdxTuSFMm43h7v.jpg
 ---
 女生都很喜欢花，我也不例外。每次去loblaw超市，带回来好几束花装饰家里，会让人觉得生活很有希望。所以，为什么不试一试当一名花艺师呢？想到了就去做，而且要铺长线，一步步实现自己的想法，是我的风格<!--break-->。仔细地计算自己的生活费后，我挤出了需要的学费（真贵！！尖叫】）。要学就学中国最好的，所以我就根据信任的博主的脚步，选择了北京的中赫花校。两周的课程，看起来很短，但是真的在其中经历时，却觉得极其漫长。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/1.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/2.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
 </figure>
 
 <ul>
@@ -29,15 +44,15 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div class="nav-fig">
   <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/3.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[2] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
   <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/4.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[3] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
 </div>
 
 <figure>
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/5.jpg?raw=true" alt="Placeholder"/>
+      <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
 </figure>
 
 <ul>
@@ -50,14 +65,14 @@ image-sm: https://picsum.photos/500/300?image=101
 <div class="nav-fig">
   <div style="width:40%; height:100%; margin:1%; overflow:hidden">
     <figure style="width:100%; height:40%; margin:5px; overflow:hidden">
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/6.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+      <img src="{{ page.image-post[5] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
     </figure>
     <figure style="width:100%; height:60%; margin:5px; overflow:hidden">
-      <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/7.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+      <img src="{{ page.image-post[6] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
     </figure>
   </div>
   <figure style="width:65%; height:100%; margin:0; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/8.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[7] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
 </div>
 
@@ -71,14 +86,14 @@ image-sm: https://picsum.photos/500/300?image=101
 
 除此之外，在做花的时候，我再次体验了心流。这种感觉，我在初中时和暧昧的男生发微信时感受到了，在玩植物大战僵尸游戏的时候感受到了，在阅读的时候感受到了，从此之后，就很难再见到心流效应了。而这次的花艺课程，我欣喜地发现，自己在某个瞬间忘记了时间，全身心投入到了其中。我可以说是很幸运了，找到了另一个开启心流体验的钥匙。
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/9.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
 </figure>
 <div class="nav-fig">
   <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/10.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[9] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
   <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/11.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[10] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
 </div>
 
@@ -89,13 +104,13 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div  class= "nav-fig">
   <figure style="width:30%; height:100%; margin:5px; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/12.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[11] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
   <figure style="width:45%; height:100%; margin:5px; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/13.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[12] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
   <figure style="width:30%; height:100%; margin:5px; overflow:hidden">
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-06-29-flower-artist-vol-1/14.jpg?raw=true" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
+    <img src="{{ page.image-post[13] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
 </div>
 

@@ -46,8 +46,8 @@ image-sm: https://picsum.photos/500/300?image=190
 正如我自己在推特里写的，
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2019-01-24-monthly-notes/1.jpeg?raw=true" alt="Placeholder"/>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2019-01-24-monthly-notes/2.jpeg?raw=true" alt="Placeholder"/>
+  <img src="https://i.loli.net/2020/09/19/GLcaUWil4NHAet1.jpg" alt="Placeholder"/>
+  <img src="https://i.loli.net/2020/09/19/eznfCUZvwmjsSa5.jpg" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 

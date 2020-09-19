@@ -41,7 +41,7 @@ image-sm: https://picsum.photos/500/300?image=119
 update: 最后一份样本反馈
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2019-01-11-sudden burden/1.jpg?raw=true" alt="Placeholder"/>
+  <img src="https://i.loli.net/2020/09/19/CvjbsLPTWnaAYgU.jpg" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 

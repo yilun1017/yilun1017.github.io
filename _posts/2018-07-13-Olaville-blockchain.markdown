@@ -7,24 +7,29 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post:
+ - https://i.loli.net/2020/09/19/sOaQPDCNhp4A2TL.jpg
+ - https://i.loli.net/2020/09/19/ZUkRbQaJL4OA2hi.jpg
+ - https://i.loli.net/2020/09/19/RObJDufmTWraUh2.jpg
+ - https://i.loli.net/2020/09/19/WsC1BNuFGXMyZiL.jpg
 ---
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-13-Olaville-blockchain/1.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
 </figure>
 
 我编译的部分：
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-13-Olaville-blockchain/2.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
 </figure>
 
 我收集的资料
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-13-Olaville-blockchain/3.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-13-Olaville-blockchain/4.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
 </figure>
  
 Yilun

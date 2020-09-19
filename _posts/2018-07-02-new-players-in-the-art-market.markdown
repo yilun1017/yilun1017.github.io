@@ -7,6 +7,29 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post: 
+  - https://i.loli.net/2020/09/19/Z7ACyYdwf2m3Vl6.png
+  - https://i.loli.net/2020/09/19/3zaFofIxNkiJnwd.png
+  - https://i.loli.net/2020/09/19/EXpzTno2LRZ76xY.png
+  - https://i.loli.net/2020/09/19/d2tnp6A78CYHaLG.png
+  - https://i.loli.net/2020/09/19/fK9yGSj8gtv4BRJ.png
+  - https://i.loli.net/2020/09/19/qoBSn6JAglVKdsT.png
+  - https://i.loli.net/2020/09/19/FZTA1OjpuJHl3n9.png
+  - https://i.loli.net/2020/09/19/gK2GLofJkcRbPeF.jpg
+  - https://i.loli.net/2020/09/19/zXejY36U4MJ1ysG.jpg
+  - https://i.loli.net/2020/09/19/5QqOpXyfMtKNBDl.jpg
+  - https://i.loli.net/2020/09/19/4nRPeiZl67kaQvA.jpg
+  - https://i.loli.net/2020/09/19/7HzOKu8Cx3k2DLf.png
+  - https://i.loli.net/2020/09/19/mSOUswycfezMhvE.png
+  - https://i.loli.net/2020/09/19/tnjHBDGUFo5YRSr.jpg
+  - https://i.loli.net/2020/09/19/GxnBOWkh25aAdNH.jpg
+  - https://i.loli.net/2020/09/19/5rHdiRPQZzbySq9.jpg
+  - https://i.loli.net/2020/09/19/I7qKyf6jEB1TDde.jpg
+  - https://i.loli.net/2020/09/19/aydS7FrkNKnYAsc.jpg
+  - https://i.loli.net/2020/09/19/jGlvsDT2X9pxqYz.jpg
+  - https://i.loli.net/2020/09/19/RGU52qVFMnzy7Th.png
+  - https://i.loli.net/2020/09/19/UTPWZvIeV71BHpO.jpg
+  - https://i.loli.net/2020/09/19/myJckxQKI9z86uY.png
 ---
 
 <h3 style="text-align:center; margin-bottom:1em;">艺术市场的新进玩家</h3>
@@ -26,43 +49,44 @@ image-sm: https://picsum.photos/500/300?image=101
 艺术基金会最为成功的案例之一，莫过于迪亚艺术基金会（Dia Art Foundation）在1977年开始的用艺术改造美国小镇Marfa的故事。Marfa是德克萨斯州西部，处于沙漠和墨西哥边境之间的一座仅有两千人口的小镇，战时曾被用于军队基地和训练营，战争结束后便被遗弃了。艺术家唐纳德•贾德（Donald Judd）在1971年经过Marfa时被其独特风光所吸引，随后搬家到了小镇。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/1.png?raw=true" alt="Placeholder"/>
+  <!--<img src="https://i.loli.net/2020/09/19/Z7ACyYdwf2m3Vl6.png" alt="Placeholder"/>-->
+  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
   <figcaption>▲Marfa小镇的沙漠风光</figcaption>
 </figure>
 
 唐纳德说服了迪亚艺术基金会（Dia Art Foundation）加入了这个特别的小镇改造项目，经过双方的通力协作，小镇焕发出新的光彩。原来的废弃的军事基地上放置了许多精心挑选的大型装置作品，展览里参与的艺术家也越来越多，由原来的约翰•尚贝莱（John Chamberlain）, 丹•弗莱文（Dan Flavin）, 唐纳德•贾德三名艺术家，到卡尔•安德烈（Carl Andre）, Roni Horn, Hya Kabakov, 理查德•朗（Richard Long）等著名艺术家的作品也加入其中。2003年，Marfa小镇成立了一个多功能的艺术空间Ball Room Marfa，除了展出艺术作品之外，还放映电影、举办音乐表演等，这个空间成为Marfa小镇新的活力来源。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/2.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
   <figcaption>▲小镇内的展览</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/3.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
   <figcaption>▲多功能艺术空间 the ballroom Marfa</figcaption>
 </figure>
 
 一系列多种多样的尝试之中，最具影响力的莫过于从El Paso到Marfa路上的一个“Prada商店”，这是艺术家艾默格林 & 德拉塞特（Elmgreen&Dragset）用雕塑、土砖、灰泥、玻璃和铝框复制的一家Prada商店。它并不是Prada旗下的门店，只是获得了标示使用权，但是其内部放置的全是货真价实的Prada真品。就这样，Marfa小镇在艺术基金会和艺术家的带领下，从一个毫无生气的小镇，转变成了新的热门艺术之地。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/4.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
   <figcaption>▲“Prada商店”</figcaption>
 </figure>
 
 在中国，艺术基金会的影响力也在继续。近期正在上海当代艺术博物馆的“陌生风景”艺术展的展品就来自于卡地亚当代艺术基金会。该基金会在1984年成立，是法国第一家以企业赞助形式支持当代艺术的机构。在其33年的历史之中，挖掘与培养了一批极有潜力的艺术家，与超过300位艺术家合作了1400余件委托作品。中国知名艺术家蔡国强与基金会的渊源颇深，刚开始因为驻地艺术项目结缘，直至今日仍保持着联系
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/5.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
   <figcaption>▲蔡国强作品《白声》</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/6.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
   <figcaption>▲“陌生风景”展览现场</figcaption>
 </figure>
 
 中国本土也有艺术基金会的身影，例如上海余德耀美术馆旗下就有一个将艺术与慈善结合在一起的基金会：艺疗基金会。该基金会在2017年成立，希望联合艺术家的独特智慧与生物医学奖的专业知识使艺术成为一种奇迹与力量。该基金会与2018年3月28日在香港成功举办第一届慈善晚宴，拍品来自余德耀基金会、艺术家徐冰、杨福东、赵半狄等，筹款全部捐赠给了约翰•霍普金斯大学胰腺癌研究中心。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/7.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
   <figcaption>▲艺疗基金会标志</figcaption>
 </figure>
 
@@ -76,25 +100,25 @@ image-sm: https://picsum.photos/500/300?image=101
 在1996年，德国时尚品牌Hugo Boss在纽约的古根海姆博物馆设立了一个以品牌命名的艺术奖项Hugo Boss Prize，第一位胜者是美国的马修•巴尼（Mathew Barney）,并收到了三万美金的奖金。这个尝试在当时得到了很大的媒体曝光度，吸引了大量的眼球。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/8.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
   <figcaption>▲Hugo Boss Prize, 1996</figcaption>
 </figure>
 
 在1970年McCrory百货的所有人麦沙伦•利克里斯(Meshulam Riklis)激进地为自己和公司购买了大量的艺术品。由于麦沙伦对公司控制力很强，所以公司上下并没有出现明显的反对声音。他非常享受寻找新兴艺术家的过程，并且向他们订购为自己商店的创作的艺术品。他并没有雇佣专业人士，而是自己决定一切，花费很长的时间去逛画廊和艺术家工作室，与画商和艺术家社交。麦沙伦将这些艺术品纳入了公司资产，他还很有创造性地提出：如果一件雕塑被摆放在折扣店，即使雕塑的市场价格上升，他仍会对这件资产进行折旧。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/9.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
   <figcaption>▲麦沙伦•利克里斯</figcaption>
 </figure>
 
 类似的公司还有很多，其中做得非常出色的有Panie Webber资产管理公司的CEO 唐纳德•马龙（Donald Marron）, 他在20世纪70年代为自己和公司购买力大量的新兴艺术家的作品，这些作品最初被摆放在公司的走廊上。20年之后，这些作品被重新聚集到一起，并成功在美国休斯敦的Museum of Fine Art举办了一场极具影响力的专属展览。在UBS公司在2000年收购Panie Webber资产管理公司的时候，UBS将40件艺术品捐赠给了MOMA（唐纳德•马龙曾今是该博物馆基金的主席）, 并且支持Panie Webber继续购买艺术品，完善它的艺术品组合。这些做出购买艺术品决定的管理者其实不仅仅将艺术品视作是一项商业投资，他们相信摆设在公司内的艺术品可以让工作环境更加有趣，让员工更遵守公司规则。如果这些艺术品被展览，更能成为一种公共关系的宣传工具。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/10.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
   <figcaption>▲唐纳德•马龙</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/11.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
   <figcaption>▲UBS艺术收藏</figcaption>
 </figure>
 
@@ -103,7 +127,7 @@ image-sm: https://picsum.photos/500/300?image=101
 因此当今，资助艺术活动的方式比直接收购更加受到青睐。大部分的公司都接受这样一个观点：公司可以将广告与宣传一部分预算用于资助文化艺术类活动，这样不仅能够向大众宣传自己，还能吸引高净值人群，例如资助美术馆、博物馆后，公司可以参与私密的美术馆举办的聚会，在那些聚会更容易接触到新客户。出于这样的目的，公司在选择何种艺术展览时也会异常谨慎，例如顶级的投资公司会乐意为毕加索的展览赞助，但是不会资助一些敏感话题的展览，例如政治类与性别类。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/12.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
   <figcaption>▲巴塞尔商业合作伙伴</figcaption>
 </figure>
 
@@ -115,11 +139,11 @@ image-sm: https://picsum.photos/500/300?image=101
 银行作为收藏家的身份在欧洲首先兴起。一家知名比利时银行家族成员Baron Leon Lambert在其28岁的时候邀请有名的现代建筑家戈登•邦沙夫特(Gordon Bunshaft)设计该银行在布鲁塞尔的总部建筑，并同时委托艺术家让•杜布菲(Jean Dubuffet) 和亨利•摩尔(Henry Moore)创作银行外部的雕塑，在这个建筑的办公区与公共区域都摆放了艺术作品。Lambert本人占据了该建筑的最高层，一迈出他的私人电梯，迎面而来的就是三个阿尔伯托•贾克梅蒂(Alberto Giacometi)创作的纤长的女性雕塑，以及一间又一间摆放着当代艺术的收藏间。在20世纪，许多欧洲银行的所有者和创始人都和Lambert一样是一位艺术收藏家。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/13.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
   <figcaption>▲戈登•邦沙夫特设计该银行在布鲁塞尔的总部</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/14.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
   <figcaption>▲贾科梅蒂雕塑作品</figcaption>
 </figure>
 
@@ -128,36 +152,36 @@ image-sm: https://picsum.photos/500/300?image=101
 在美国，艺术品被视为具有商业价值的契机来自于1985年苏富比的四月拍卖，这场拍卖会也象征着顶尖艺术品拍卖价格被大众消费的开端。当时的拍卖品的质量非常优秀，最显眼的一件拍卖品是梵高的Enclosed Field with Young Wheat and Rising Sun(1889)，当时苏富比预测价格是五百万美金，这已经超越了任何一件艺术品的预测价格。然而最后的落槌价格竟然是预测价格的两倍左右：9.9百万美金。让这个故事变得更加戏剧化的是买家是一位阿根廷的水泥企业所有者，一位女性的收藏家Amalia de Fortabat。第二天，这场拍卖会登上了纽约时报的头条，收到了全世界的注目。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/15.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[14] }}" alt="Placeholder"/>
   <figcaption>▲Amalia de Fortabat</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/16.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[15] }}" alt="Placeholder"/>
   <figcaption>▲Enclosed Field with Young Wheat and Rising Sun(1889)</figcaption>
 </figure>
 
 虽然说大部分的美国银行都反应迟钝，但是其中也有例外，例如JP摩根：1959年，JP摩根的前身Chase Manhattan Bank在David Rockefeller的领导下，开始建立公司的艺术品组合，截止到2014年，该公司在全球450个分公司内摆放着30000件艺术品。David的母亲Abby Aldrich Rockefeller同时是Museum of Modern Art三位创始人之一，David本人、他的兄弟Nelson以及妹妹Blanchette也曾出任过该博物馆的主席职位。在JP摩根的收藏中，既有大名鼎鼎的艺术家作品，也有一些不知名的画家因为作品被该公司购买而名声大振。该公司还将自己的艺术品供全球的美术馆展览。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/17.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[16] }}" alt="Placeholder"/>
   <figcaption>▲ MoMA</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/18.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[17] }}" alt="Placeholder"/>
   <figcaption>▲JP摩根的总裁办公室</figcaption>
 </figure>
 
 迈入21世纪之后，银行变得更加地国际化，他们也发现那些高净值的客户很多都是收藏家，因此为了更好地接触客户与提高自己的品牌形象，银行纷纷迈入了艺术领域。例如Deutsche Bank 就效仿JP摩根，开始建立自己的艺术品收藏组合，并将这些作品以自己的名字在全世界展出，以此塑造在高净值潜在客户心中的形象。银行正在参与越来越多的顶级艺术展，Deutsche Bank 和ING都是TEFAF的赞助商，UBS是巴塞尔艺术展的赞助商。这些银行会派高层管理者出席艺术展相关的私人聚会，并在席间发言，一般都是关于该银行的理念与该展览的先锋精神的相互共鸣。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/19.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[18] }}" alt="Placeholder"/>
   <figcaption>▲Deutsche Bank的艺术收藏</figcaption>
 </figure>
 
 除了赞助和直接购买，银行还衍生出了艺术咨询业务。Citibank的艺术咨询业务中只需要支付一定的年费与手续费，客户就可以得到一支专业的艺术专家的帮助，来判定艺术品价值，找到合适的艺术品以及特别渠道购买艺术品。这项业务还包含了艺术品的储存、运输与保险。如果客户想要出售一件艺术品，服务人员还会帮忙处理执行上的问题，并根据客户需要选择匿名的方式出售。Citibank推出这项业务之后得到了很好的反馈，并成功吸引了一大批高净值人群，加强与他们的联系，借此推销更多的业务。Citibank同时也允许客户把艺术品作为抵押物，获得资金。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/20.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[19] }}" alt="Placeholder"/>
   <figcaption>▲citibank艺术咨询服务人员</figcaption>
 </figure>
 
@@ -170,11 +194,11 @@ image-sm: https://picsum.photos/500/300?image=101
 看到热度不断上升的艺术市场，艺术品信息售卖行业也开始发展。一位来自加利福尼亚的创业者Carlos Rivera和他的伙伴在2014年建立了名叫Sell You Later的网站。这个网站将艺术家们分类，然后将每个艺术品打上不同的标签：低于一万美金就买下，该卖出了，流动性强等。这个网站的基本思想是把艺术品投资看作和风险投资一样，高风险高回报，尽可能地去寻找那些独角兽类的艺术品。这个网站不需要付钱就可以访问，但是如果支付3500美金的费用，就可以先人一步得到信息，更快地作出反应。创始人透露道在他建立ins账号和网站的几天之后，就有好几个世界级收藏家注册与付费了。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/21.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[20] }}" alt="Placeholder"/>
   <figcaption>▲Carlos Rivera</figcaption>
 </figure>
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-new-players-in-the-art-market/22.png?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[21] }}" alt="Placeholder"/>
   <figcaption>▲Sell You Later网站截图</figcaption>
 </figure>
 
