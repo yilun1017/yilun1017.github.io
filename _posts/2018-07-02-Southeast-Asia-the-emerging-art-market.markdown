@@ -7,6 +7,21 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post: 
+  - https://i.loli.net/2020/09/20/zcnjqwJTpC5NDhX.jpg
+  - https://i.loli.net/2020/09/20/deckTmjYSJECu45.jpg
+  - https://i.loli.net/2020/09/20/y4TPqvXtl8wuWLJ.jpg
+  - https://i.loli.net/2020/09/20/6MZ975IrPLkuFzg.jpg
+  - https://i.loli.net/2020/09/20/G3Q2d9BkMXwIUP8.jpg
+  - https://i.loli.net/2020/09/20/upbTM9AyEVhIZP3.jpg
+  - https://i.loli.net/2020/09/20/CFqowHW4KI6S8ik.jpg
+  - https://i.loli.net/2020/09/20/bdOjnSrtxKYHFsi.jpg
+  - https://i.loli.net/2020/09/20/stbD6pTYnxkOGE4.jpg
+  - https://i.loli.net/2020/09/20/OwaKQDjqzvNPMBX.jpg
+  - https://i.loli.net/2020/09/20/UQBHiDaECPlJ87h.jpg
+  - https://i.loli.net/2020/09/20/pFZqQPsDJ2uaV7U.jpg
+  - https://i.loli.net/2020/09/20/AOGjvX58JdBeUoQ.jpg
+  - https://i.loli.net/2020/09/20/dbZUFq9OyA3z5Mr.jpg
 ---
 
 <i style="font-size:15px">微信公众号《艺术市场通讯》6月25日发布</i>
@@ -21,7 +36,7 @@ image-sm: https://picsum.photos/500/300?image=101
 通常意义上，东南亚指代的是东南半岛及其以一大片东印度群岛，这个区域内有多个国家：缅甸、泰国、老挝、柬埔寨、越南、马来西亚、新加坡、印度尼西亚、文莱、东帝汶和菲律宾。在以前菲律宾并没有被视为东南亚的一员，因为其历史没有遵循东南亚其他国家的规律。然而后来由于菲律宾地理位置靠近、文化相近，所以现在也被认为是东南亚的一员。因此在东南亚艺术的划分上，菲律宾也有时被纳入考虑，有时则没有。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/1.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
   <figcaption>▲ 东南亚地图</figcaption>
 </figure>
 
@@ -30,7 +45,7 @@ image-sm: https://picsum.photos/500/300?image=101
 除了自身民族的多样性之外，东南亚还接受了来自其他国家的文化影响。在公元前一千年，东南亚人与印度人就有了接触，印度人带来了他们的观念与传统艺术。东南亚人民吸收了一部分，但是没有完全丧失自己的原住民传统。宗教上，印度带来的印度教、佛教与西亚而来的伊斯兰教对东南亚艺术影响深远，而且在此基础上，东南亚也创造了自己的文化。但是，自印度而来的最初的宗教传统在今天依然影响巨大。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/2.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
 </figure>
 
 另一边，来自欧洲的艺术文化随着侵略与殖民的步伐，在十六世纪进入了东南亚。最初是荷兰与葡萄牙先进入了东南亚，随后英国与法国也对东南亚殖民产生了兴趣，直到二十世纪中叶，东南亚才重新获得了自由。
@@ -41,7 +56,7 @@ image-sm: https://picsum.photos/500/300?image=101
 东南亚当代艺术也在逐步发展，但是其市场相较于其他地区显得更加复杂。总区域整体表现上看，据ArtTactic的全球艺术市场总览：2018年报告（ Global Art Market Outlook 2018）显示东南亚艺术市场的震荡大抵与世界艺术市场一致，在2010-2016年间，当代艺术获得显著增长，苏富比与佳士得拍卖价格增长率为23.4%，然后于2016-2017年间市场遇冷，当前市场有回暖迹象，专家认为2018年东南亚艺术市场将达到5.1%的增长率。
 <div style="width:80%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/3.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
     <figcaption>▲ ArtTactic东南亚市场资料</figcaption>
     </figure>
 </div>
@@ -52,7 +67,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/4.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
     <figcaption>▲ 新加坡艺术舞台博览会</figcaption>
     </figure>
 </div>
@@ -61,12 +76,12 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:60%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/5.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
     </figure>
 </div>
 <div style="width:90%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/6.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
     <figcaption>▲ 新加坡国立美术馆</figcaption>
     </figure>
 </div>
@@ -74,11 +89,11 @@ image-sm: https://picsum.photos/500/300?image=101
 然而，放眼望去接棒新加坡艺术据点地位的东南亚城市少之又少，主要原因是东南亚地区经济发展极其不均。例如新加坡虽然只是一个城市国家但却拥有着155000位百万富翁，与之相比柬埔寨2015年的GDP总额却仅有180.5亿美金。由此导致除新加坡以外的东南亚国家，艺术行业基础设施不完善，艺术机构仅处于起步阶段，艺术批评家稀缺，藏家也大多关注本国艺术，缺乏国际视野。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/7.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
     <figcaption>▲ 柬埔寨</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/8.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
     <figcaption>▲ 新加坡</figcaption>
 </figure>
 
@@ -90,12 +105,12 @@ image-sm: https://picsum.photos/500/300?image=101
 除了像Rirkrit Tiravanija一样早已闻名遐迩的艺术家，近年来又有许多年轻东南亚艺术家闯入人们的视野之中，例如艺术市场超新星，在泰国出生、现居住在纽约的艺术家Korakrit Arunanondchai。Korakrit虽只有30多岁，但是已经在MOMA PS1、东京宫、北京的UCCA举办过展览。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/9.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
     <figcaption>▲ Rirkrit Tiravanija</figcaption>
 </figure>
 <div style="width:70%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/10.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
         <figcaption>▲ Korakrit Arunanondchai</figcaption>
     </figure>
 </div>
@@ -106,7 +121,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/11.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
         <figcaption>▲ Dinh Q. Le， 《四个角度》（局部）‘Scroll #4’ from “Four Perspectives” （detail）， 2016.</figcaption>
     </figure>
 </div>
@@ -117,7 +132,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/12.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
         <figcaption>▲ 展览《黑暗之后：觉醒时代的东南亚艺术》</figcaption>
     </figure>
 </div>
@@ -128,7 +143,7 @@ image-sm: https://picsum.photos/500/300?image=101
 东南亚当代艺术的生长环境得天独厚，各个国家既有相近的历史与宗教背景，又因后来的际遇不同，而发展速度不一。同时，被殖民的历史虽然伤痛，但是也让东南亚艺术家们对于政治类话题有着更深的理解与表达。东南亚地区所经历的战争也成为一批艺术家离开祖国的契机，他们接触了西方文化，在西方社会里生活。当东南亚近年来政局稳定、经济发展之后，迎来了一批海外艺术家的回流。他们既接受过东南亚传统历史文化的熏陶，又熟练掌握外语与西方社会社交技巧。和一些非西方式国家的艺术家因文化差异与语言不通，导致未能同步于世界当代艺术发展，也弱于宣传自己的作品。东南亚艺术家一方面有着个人特色，一方面也善于与海外藏家们进行沟通与解说作品，这无疑是东南亚当代艺术在国际市场异军突起的重要基础。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/13.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
     <figcaption>▲印尼艺术家Eddy Susanto的《迈向Kalatidha的资本主义》，借用爪哇传统木屋、纸钞图像与三只猪雕塑，重新审视爪哇文学经典“Serat Kalatidha”里的资本影响。</figcaption>
 </figure>
 
@@ -137,7 +152,7 @@ image-sm: https://picsum.photos/500/300?image=101
 另一方面，由于东南亚地区的政府的文化艺术预算较少，扶持艺术家项目极少，东南亚艺术家大多仰仗国外藏家的资助与售卖作品以坚持创作。因此他们极善于捕捉国际艺术市场动向，并根据西方藏家的喜好而制作作品。这导致了东南亚当代艺术提前成熟，作品中不太看到东南亚传统艺术的影子，而是更多地涉及到近现代历史，以便于海外藏家理解。从另一个角度看，这种迎合是否也阻碍了东南亚当代艺术坚持自我风格呢？
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Southeast-Asia-the-emerging-art-market/14.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
     <figcaption>▲艺术登陆新加坡博览会</figcaption>
 </figure>
 

@@ -7,13 +7,28 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=1031
 image-sm: https://picsum.photos/500/300?image=1031
+image-post:
+  - https://i.loli.net/2020/09/19/jL58UzOvuPRTZnt.png
+  - https://i.loli.net/2020/09/19/SOCjHyieqJa3FX1.png
+  - https://i.loli.net/2020/09/19/1rA6ezcQDYthFWn.png
+  - https://i.loli.net/2020/09/19/dBVUSGy7EcxOlZw.png
+  - https://i.loli.net/2020/09/19/HA5yh8P9ezlvxDc.png
+  - https://i.loli.net/2020/09/19/yMNOSzQB5R6YZPj.png
+  - https://i.loli.net/2020/09/19/uP4OzIEaWUHXLid.png
+  - https://i.loli.net/2020/09/19/6ixdjPyaMRfI9Tp.png
+  - https://i.loli.net/2020/09/19/28iltyTqYwRJUCM.png
+  - https://i.loli.net/2020/09/19/z7a6ZNRDqQLV9lG.png
+  - https://i.loli.net/2020/09/19/3I7BXlqp6JsCZ1P.png
+  - https://i.loli.net/2020/09/19/XubgrJzhCWtqv8U.png
+  - https://i.loli.net/2020/09/19/okJQIFWuUmNfbgX.png
+  - https://i.loli.net/2020/09/19/gVjTa6yNKnLfBcd.png
 ---
 于2020年6月7日发布于指南针资本
 
 <a href="https://mp.weixin.qq.com/s/D5qrMSM6DqWUkIhmWlgC3g">https://mp.weixin.qq.com/s/D5qrMSM6DqWUkIhmWlgC3g</a>（编译）
 
 <figure>
-  <img src="https://i.loli.net/2020/09/19/jL58UzOvuPRTZnt.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -30,7 +45,7 @@ image-sm: https://picsum.photos/500/300?image=1031
 
 
 <figure>
-  <img src="https://i.loli.net/2020/09/19/SOCjHyieqJa3FX1.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -40,23 +55,23 @@ image-sm: https://picsum.photos/500/300?image=1031
 3月1日以后，以2周为一个时间区间，不同类别的占比情况大幅变化。3月1日到14日的两周间与紧急事态宣言发布（4月8日，7个都府县宣布进入紧急情况）后的4月12日到25日的两周间的构成情况进行比较，写字楼占比稍有增加，商业占比稍有减少，住宅宿舍占比稍有增加之外，酒店占比变零（从12%到0%），物流占比倍增（从6%到13%）。
 
 <figure>
-  <img src="https://i.loli.net/2020/09/19/1rA6ezcQDYthFWn.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
 此外，4月份的按类别构成情况和去年相比，可以明显看出写字楼和住宅占比增加，商业、酒店和物流占比下降的趋势。物流占比减少的原因是，去年上半年因REITs和非地产公司对于物流项目投资的活跃，导致去年较往年平均有了大幅度的提升所致。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/dBVUSGy7EcxOlZw.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 同样，以2周为一个区间，按地域划分的构成情况也发生了巨大改变。将3月1日到14日和4月12日到25日相比，东京都心五区、首都圈和其他区域增加，而近畿中部圈、地方大都市圈减少。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/HA5yh8P9ezlvxDc.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 将今年4月情况与去年同期相比，东京都心5区和其他区域增加，首都圈和近畿中部圈减少。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/yMNOSzQB5R6YZPj.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -64,18 +79,18 @@ image-sm: https://picsum.photos/500/300?image=1031
 ***
 在中国，从一月开始以武汉为中心新型冠状病毒爆发，感染扩散。日本方面，从1月27日开始便全面停止来自中国的团体访客入境，当时观光地、酒店等访日旅客为主要客源的商业设施首当其冲受到了影响。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/uP4OzIEaWUHXLid.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 迈入2月下半旬后，酒店和百货商店的销售额受到巨大影响，同时网络购物、药妆店、家居店的营业额比去年增加。随着中国国内的感染进一步扩大，全世界对新型冠状病毒的警惕感加强，全球股票市场在2月下旬出现了历史性的低值。东证REIT指数也急剧滑落。3月下半月的指数约为年初高值的腰斩水平。JREITs每股价格的下降不仅影响到酒店等商业设施，写字楼、住宅等公募增资也开始延期或终止，导致最终收购行为也延期或终止。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/6ixdjPyaMRfI9Tp.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 3月份因中小学校休校、感染人数急剧增加，而导致人群移动变缓。一方面，酒店、饮食店的营业额大幅减少，另一方面居家购物消费行为增加，网上购物和家居店营业额增加。4月8日，7个都府县发布紧急事态宣言政令，要求个人非必要和紧急情况外应避免外出居家隔离。公司经营方面，以东京都为例，学校教室、一部分的商业设施（宠物店、音像出租店、桑拿房等）、剧院、运动设施、集会空间、游乐设施等不得不休业。
 在以上情况下，酒店方面本就因东京奥林匹克运动会原定时间开催前夕呈供过于求的状态，后因新型冠状病毒访日旅客锐减，以及因减少外出导致日本本土游客减少，导致酒店的买卖减少。因为业绩恶化管理者提出减少租金的要求致使买卖中止，外国投资家无法来日而中止购买不动产、因为感染扩大导致新规融资困难而买卖终止等事例举不胜举。投资家们对于位于郊外的商业设施的投资意愿低下，位于都心的商业设施也因饮食街的销售额减少而收到降低房租的请求。也有新建商业设施因饮食店开业时间待定而导致买卖中止的案例出现。此外，写字楼方面提高租金的可能性渺茫，住宅因无法实地进行建筑物调查导致买卖延期
 <figure>
-  <img src="https://i.loli.net/2020/09/19/28iltyTqYwRJUCM.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -93,8 +108,10 @@ image-sm: https://picsum.photos/500/300?image=1031
 日本Retail Fund则认为，不动产的买方有推迟购买的倾向，为了转化成现金而售出不动产的行为也可能发生。能够取得优质不动产的机会依然存在，在这一个月间Retail Fund收到的商业设施相关不动产信息大幅增加。（根据4月13日发行的决算说明会资料原稿）
 曾经因为不当言论而遭到国内携程等主流旅行公司抵制的Apa Hotel认为，正是因为处于困难的时期，反而应该积极地抓住兼并&收购机会扩大公司规模。星野度假集团预测药物和疫苗的国内需求量将大幅上涨，在后病毒时代应抢先抓住该机会。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/z7a6ZNRDqQLV9lG.png" alt="Placeholder"/>
-  <img src="https://i.loli.net/2020/09/19/3I7BXlqp6JsCZ1P.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
+</figure>
+<figure>
+  <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -102,18 +119,18 @@ image-sm: https://picsum.photos/500/300?image=1031
 ***
 根据日经不动产市场情报，2020年的第一季度的不动产买卖成绩额为1兆3,662亿日元（相比同期上浮37%），是自2018年金融危机后逼近了历史最高值（2015年第一季度为1兆4,420亿日元）。第一季度的前半期REIT取得了4,550亿日元的不动产，2月份后半开始JREIT指数大幅降低，导致公募增资的活动减缓，不动产取得速度降低。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/XubgrJzhCWtqv8U.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 从2月到3月，东证REIT指数有大幅下降，2月21日到3月19日期间的变动率为：东证REIT指数下降49.0%，日经平均指数下降29.2%，美国道琼斯指数下降33.9%。但是，3月19日之后开始回涨。3月19日到5月8日期间的变动率为：东证REIT指数增加44.5%，日经平均指数增加21.9%，道琼斯指数增加26.9%，相比较东证REIT指数的恢复幅度更大。
 <figure>
-  <img src="https://i.loli.net/2020/09/19/okJQIFWuUmNfbgX.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 根据按用途细分的东证REIT指数，2月后半到3月后半期间住宅指数比其他两个指数的下降幅度小，反弹更多。此外，2019年5月末开始到2020年5月7日为止的一年左右时间里，从单位投资价格的变化率来看，物流REIT 表现优异，而酒店REIT的下降幅度巨大。
 <b>包含J-REIT的股票市场的恢复将会对未来不动产买卖产生很大影响。</b>
 <figure>
-  <img src="https://i.loli.net/2020/09/19/gVjTa6yNKnLfBcd.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
  

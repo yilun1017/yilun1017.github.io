@@ -7,6 +7,24 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post: 
+  - https://i.loli.net/2020/09/20/uYMgdRSEH26KPJD.jpg
+  - https://i.loli.net/2020/09/20/aVGUosNQejZwg9Y.jpg
+  - https://i.loli.net/2020/09/20/9pUchusyQ3YDKTX.jpg
+  - https://i.loli.net/2020/09/20/7D1RhHOQYEgudpA.jpg
+  - https://i.loli.net/2020/09/20/ZiEvRMz9J6lxHkI.jpg
+  - https://i.loli.net/2020/09/20/ObTJAXFNZaeRGBU.jpg
+  - https://i.loli.net/2020/09/20/iEhZB2DntgloJs9.jpg
+  - https://i.loli.net/2020/09/20/W1i5mFMpAvGBYcO.jpg
+  - https://i.loli.net/2020/09/20/ou7nqRlvwAHONST.jpg
+  - https://i.loli.net/2020/09/20/Rdw38geNszvnoW4.jpg
+  - https://i.loli.net/2020/09/20/7a1t6OgdqkM2Ulm.jpg
+  - https://i.loli.net/2020/09/20/oCRpwf5GqHIuS7A.jpg
+  - https://i.loli.net/2020/09/20/XRI5M9uzqeGWB7S.jpg
+  - https://i.loli.net/2020/09/20/igd2ZTtnlaGh6DS.jpg
+  - https://i.loli.net/2020/09/20/WcOUdMjwCl7T6FG.jpg
+  - https://i.loli.net/2020/09/20/zchmDsIbG1PZkjY.jpg
+  - https://i.loli.net/2020/09/20/j1TAStXmH7RO8D5.jpg
 ---
 
 <i style="font-size:15px">微信公众号《艺术市场通讯》6月22日发布</i>
@@ -22,7 +40,7 @@ image-sm: https://picsum.photos/500/300?image=101
 蒙德里安出生于荷兰的阿默斯福特城市，是家里第二个孩子。他的父亲是一位绘画老师，所以他很早的时候就得到了绘画启蒙，并经常到盖恩河边写生。那个时候，他的大部分作品沿袭了自然派和印象派的风格，大量地描绘了自然风光。在他描绘家乡田园风格的画中，常常有原野、河流和风车的身影。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/1.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
   <figcaption>▲蒙德里安在荷兰的故居</figcaption>
 </figure>
 
@@ -30,11 +48,11 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/2.jpeg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
         <figcaption>▲《靠近运河的游泳者》Bathers near the Canal （1895-1900）</figcaption>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/3.jpeg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
         <figcaption>▲《开拓地景色与五只奶牛》Polder Landscape with Group of Five Cows （1901）</figcaption>
     </figure>
 </div>
@@ -43,7 +61,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:60%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/4.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
         <figcaption>▲《进化》Evolution （1910–11）</figcaption>
     </figure>
 </div>
@@ -56,17 +74,17 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/5.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
         <figcaption>▲《灰色的树》Gray Tree（1911）</figcaption>
     </figure>
 </div>
 <div style="width:80%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/6.jpeg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
         <figcaption>▲《彩色平面的组合》composition with Colour Planes 1（1917）</figcaption>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/7.jpeg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
         <figcaption>▲《线的组合，第二状态》composition in line， second state（1916-17）</figcaption>
     </figure>
 </div>
@@ -85,10 +103,10 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/8.jpeg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/9.jpeg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
         <figcaption>▲蒙德里安的工作室</figcaption>
     </figure>
 </div>
@@ -99,17 +117,17 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/10.jpeg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
         <figcaption>▲《组合No.2》composition No.II（1920）</figcaption>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/11.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
         <figcaption>▲《表1》Tableau I （1921）</figcaption>
     </figure>
 </div>
 <div style="width:30%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/12.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
         <figcaption>▲《表1 菱形与四条线与灰》Tableau I Lozenge with Four Lines and Gray （1926）</figcaption>
     </figure>
 </div>
@@ -118,7 +136,7 @@ image-sm: https://picsum.photos/500/300?image=101
 在1940年8月，蒙德里安离开了欧洲，前往美国。在纽约麦哈顿生活的时间里，蒙德里安发掘出了新的创作灵感，虽然这一系列新画作因蒙德里安的去世而戛然而止。其中的一个经典画作为New York City（1942）， 这幅画作由红色、蓝色和黄色的线组成，它们有时会相交以呈现出以往的作品中没有的厚度感。另一幅作品Broadway Boogie-Woogie （1942–43）现被收藏于MoMA， 这幅画也深深地影响了后世的抽象几何绘画的艺术教育。这幅作品由一些系列明亮的小方块组成，就像在画布上轻快地跳跃着一样，让观众想起纽约街头的那些炫目的霓虹灯光。在蒙德里安没有完成的画作Victory Boogie Woogie （1942–44）中，我们得以窥见艺术家创造出的全新的表达方式，他不再使用之前的实线形式，而是用一些色彩小方块并列起来变成一条线。他会使用纸质胶带覆盖不同的色块，给了整个画作全新的触感。与蒙德里安在1920-30年间带着严谨科学态度的画作不同，纽约时期的画作似乎释放了作家内心中的旋律，明亮、具有生机。蒙德里安似乎在描绘着他所处的纽约市，永远朝气蓬勃，永远新鲜，就像一首昂扬的音乐。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/13.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
     <figcaption>▲《胜利的布基乌基》Victory Boogie Woogie （1942–44）</figcaption>
 </figure>
 
@@ -136,7 +154,7 @@ image-sm: https://picsum.photos/500/300?image=101
 在1917年，蒙德里安与其他三位画家Theo van Doesburg， Bart van der Leck， 与Vilmos Huszar一拍即合，成立一家艺术杂志社，并且发动了De Stijl（风格）运动。他们主要呼吁彻底拒绝，仅停留在视觉感知上的、对现实世界的描述。它支持用一种彻底的抽象方式去展现艺术的和谐与秩序。所以他们建议重构绘画语言，让最基本的元素——直线，基本颜色（红黄蓝）与中性颜色（黑、白、灰）成为主角。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/14.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
     <figcaption>▲《风格杂志》De Stijl</figcaption>
 </figure>
 
@@ -155,14 +173,14 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:90%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/15.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[14] }}" alt="Placeholder"/>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/16.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[15] }}" alt="Placeholder"/>
         <figcaption>▲圣罗兰设计的连衣裙</figcaption>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-walking-art-history/17.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[16] }}" alt="Placeholder"/>
         <figcaption>▲包豪斯建筑风格发源地</figcaption>
     </figure>
 </div>

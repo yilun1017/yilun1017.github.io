@@ -7,6 +7,26 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post: 
+  - https://i.loli.net/2020/09/20/H2jd8TYrcfeo6GQ.jpg
+  - https://i.loli.net/2020/09/20/ykYfBFeG5RHmVCK.jpg
+  - https://i.loli.net/2020/09/20/Ah4e5lREvDsLw9M.jpg
+  - https://i.loli.net/2020/09/20/IBLP7Tx8tKUA2Vv.jpg
+  - https://i.loli.net/2020/09/20/tmn1jXyIVZ7UF3o.jpg
+  - https://i.loli.net/2020/09/20/a3UKTcquxVBysdj.jpg
+  - https://i.loli.net/2020/09/20/9bFSJDTPR15CZcG.jpg
+  - https://i.loli.net/2020/09/20/OSwa3Tk7mtbKgWu.jpg
+  - https://i.loli.net/2020/09/20/UW1D7c5EMAKwmPy.jpg
+  - https://i.loli.net/2020/09/20/mshvyB2R6xIn7Nc.jpg
+  - https://i.loli.net/2020/09/20/J3peOnXlirZ2a5Y.jpg
+  - https://i.loli.net/2020/09/20/W39wDlZ5o6uFGBj.jpg
+  - https://i.loli.net/2020/09/20/1tPrQoWXNLFYVlp.png
+  - https://i.loli.net/2020/09/20/S15FCv6BIHnxA4V.png
+  - https://i.loli.net/2020/09/20/L6ne8NMCK2rljQ9.jpg
+  - https://i.loli.net/2020/09/20/BIFPwYjZn5poMxU.jpg
+  - https://i.loli.net/2020/09/20/If7iynFBPkEgubT.jpg
+  - https://i.loli.net/2020/09/20/D34M8OkQeV7dr5f.jpg
+  - https://i.loli.net/2020/09/20/VIwPTBns9FYkzra.png
 ---
 
 <i style="font-size:15px">微信公众号《艺术市场通讯》5月9日发布</i>
@@ -21,7 +41,7 @@ image-sm: https://picsum.photos/500/300?image=101
 日本濑户内国际艺术节自2010年开始，每三年举办一次。艺术节主要的场所在日本香川县高松市附近的几个小岛上。这些小岛们零零散散地点缀在碧蓝色的濑户内海上，艺术节会邀请世界各地知名的艺术家根据小岛当地环境创作，吸引了来自全世界的游客与艺术爱好者。
 
 <figure>
-  <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/1.jpg?raw=true" alt="Placeholder"/>
+  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
   <figcaption>▲ 日本濑户内海远景</figcaption>
 </figure>
 
@@ -29,13 +49,13 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/2.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/3.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/4.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
         <figcaption>▲ 直岛上的美术馆</figcaption>
     </figure>
 </div>
@@ -47,7 +67,7 @@ image-sm: https://picsum.photos/500/300?image=101
 第二条是挖掘岛屿的本土风情，重振当地文化。安藤忠雄等建筑家在成功建造岛上博物馆之后，提出来空屋计划。该计划希望依托原有的岛上老房子，进行改造，展现本土风貌与故事。除了改造老房，当地岛民也积极参与到艺术节的创建之中，他们将自己的屋子改造成餐厅，宣扬当地独特的食文化。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/5.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
     <figcaption>▲ 濑户内国际艺术节标志性雕塑，草间弥生的南瓜</figcaption>
 </figure>
 
@@ -59,24 +79,24 @@ image-sm: https://picsum.photos/500/300?image=101
 看到濑户内国际艺术节的文化与经济影响力，日本各地也纷纷效仿，然而跟风并不能保证成功，例如日本札幌艺术节就远远没有达到预期的影响力。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/6.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
     <figcaption>▲ 札幌国际艺术节海报</figcaption>
 </figure>
 
 2014年第一届札幌艺术节结束之后，日本网络上涌现出了大量的反思与批评：札幌艺术节不够热闹，没有艺术节的氛围。札幌市民并没有参与艺术节举办的意识。札幌市内的艺术节宣传活动没有始终如一，中途就失去了力度。其中反思最为深刻的大崎龙史评论家的文章指出，札幌国际艺术节失败的根本原因来自于一开始它便没有动员当地的民众。2014年第一届札幌国际艺术节是由艺术家坂本龙一担任总策划，并提出了“从现在开始，考虑如何让都市和自然共存的方法吧”的主题。然而这个主题完全是艺术家本人的构思，当地的民众既没有参与，也没有共鸣。这使艺术节悬浮在了空中，失去了吸引力。这与上文提到的濑户内国际艺术节形成了强烈的对比，濑户内国际艺术节特别重视当地居民的参与与认同，并且组建了专门的志愿者小队，由当地居民带头，来自各个地方的志愿者共同协作以帮助艺术节的顺利举办。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/7.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
     <figcaption>▲ 札幌国际艺术节实景</figcaption>
 </figure>
 
 2014年的第一届失利的札幌艺术节并没有就此停止，在2017年它重新出发，邀请了音乐家大友良英作为总策划人，并且针对当前艺术节处处开花的现状做出了反思，提出了新的主题：“艺术节到底是什么呢？”遗憾的是，这第二次的札幌国际艺术节依然没有达到预想的效果。虽然第二届札幌国际艺术节的举办场所由原来的18个场所，增加到了45个场所，但是访客人数却从第一届的48万人次下降到了37万人次。针对本次艺术节，很多访客表达了失望的心情。艺术品过于粗制滥造，没有感动与震撼的感觉，反而开始怀疑这些东西真的配得上被称为艺术品吗？还有一些访客尖锐地指出，本次的艺术节似乎为了弥补前次的不足，大量借鉴了濑户内国际艺术节等成功例子，拷贝了它们的模式，毫无新意可言，还有抄袭之嫌。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/8.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/9.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
     <figcaption>▲ 札幌国际艺术节展品</figcaption>
 </figure>
 
@@ -87,14 +107,14 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/10.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
         <figcaption>▲ 2017年威尼斯双年展中国馆</figcaption>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/11.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/12.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
         <figcaption>▲ 2017年威尼斯双年展意大利馆</figcaption>
     </figure>
 </div>
@@ -105,10 +125,10 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/13.png?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
     </figure>
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/14.png?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
         <figcaption>▲ Vlassis Caniaris（1928-2011）的两件装置作品“跳房子”和“共存”陈列在卡塞尔文献展</figcaption>
     </figure>
 </div>
@@ -116,10 +136,10 @@ image-sm: https://picsum.photos/500/300?image=101
 文献展始终坚持着学术性的初衷，长达5年的周期给予了艺术家至少1-2年的创作时间。同时，和其他的艺术展不同，卡塞尔文献展并不接受艺术家的报名与画廊等艺术商业机构的推荐，其艺术品全部由专门的策展团队进行全球范围内的筛选与邀请。整个策划与筹备过程及其严谨与细致，给予了策展人足够的思考与打磨的时间，保证了策展人学术主张不受感染，整个文献展基调严肃，而非简单地将艺术家与爱好者们聚在一起狂欢。由此，卡塞尔文献展成了先锋艺术的实验场，卡塞尔文献展已不仅仅属于德国，它已经成为国际当代艺术的一个重要坐标，是西方文化界关注的焦点，也是西方社会的时代镜像。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/15.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[14] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/16.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[15] }}" alt="Placeholder"/>
     <figcaption>▲ 2017年卡塞尔文献展标志性展品：Marta Minujín的 The Parthenon of Books</figcaption>
 </figure>
 
@@ -135,7 +155,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:60%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/17.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[16] }}" alt="Placeholder"/>
         <figcaption>▲ 巴西圣保罗夜景</figcaption>
     </figure>
 </div>
@@ -144,7 +164,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:60%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/18.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[17] }}" alt="Placeholder"/>
         <figcaption>▲ 2016年巴西圣保罗双年展海报，主题为生存不确定性</figcaption>
     </figure>
 </div>
@@ -153,7 +173,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:60%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-global-arts-festival/19.png?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[18] }}" alt="Placeholder"/>
         <figcaption>▲ 圣保罗双年展的第33届首席策展人Gabriel Perez-Barreiro</figcaption>
     </figure>
 </div>

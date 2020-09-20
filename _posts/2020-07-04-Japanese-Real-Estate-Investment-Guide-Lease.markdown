@@ -7,6 +7,11 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post: 
+  - https://i.loli.net/2020/09/19/9oJmiN6yAwMd2xz.png
+  - https://i.loli.net/2020/09/19/2TrMpAYwWm9bkjy.png
+  - https://i.loli.net/2020/09/19/PJr9QRC4xpjq1E6.png
+  - https://i.loli.net/2020/09/19/MnojF8JPdhYe5Qb.png
 ---
 于2020年6月5日发布于指南针资本
 <a href="https://mp.weixin.qq.com/s/2P6nj4Obb7wjdz24UHcxNg">https://mp.weixin.qq.com/s/2P6nj4Obb7wjdz24UHcxNg</a>（编译）
@@ -20,7 +25,7 @@ image-sm: https://picsum.photos/500/300?image=101
 随着3-4月日本全国范围各级省会城市纷纷出台限制人们出行并要求居家办公的政令，日本整体经济活动无疑受到了不小的打击。3-4月间，租客因观望疫情的未来发展情况，纷纷削减开支，暂缓人才招聘计划、公司搬迁和看房预约。但是由于日本写字楼租约通常为2年一签；加之在疫情发生前，东京甲级写字楼都还维持在空置率低于1%的高出租率，3-4月期间，疫情并未对写字楼租赁市场产生直接冲击和影响，唯一最受打击的恐怕是以WeWork为代表的短租形式的共享办公。
 
 <figure>
-  <img src="https://i.loli.net/2020/09/19/9oJmiN6yAwMd2xz.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -38,7 +43,7 @@ image-sm: https://picsum.photos/500/300?image=101
 新冠疫情的流行极大地打击了与海外游客赴日旅游相关的产业（见下图），在商业设施的租赁市场（面向一般消费者）中，租户的销售收入大幅减少。可以预见主要道路的商铺市场价格将会回落，其中以大阪的御堂筋、心斋桥一带最为显著。以药妆店为核心的面向访日游客的商店在过去几年一直是拉动市场的领头羊。尤其是路面店商铺最高租金从2015年的每月15万日元/坪（约98人民币/天/平米），自2017年之后，倍增至2019年10月-12月的每月30万日元/坪（约196人民币/天/平米）。随后，随着面向访日游客的店铺突然遇冷，2020年1月-3月的租金降至每月28万日元/坪（约183人民币/天/平米）（见下图）。今后对于药妆店的需求短期预计难以回升，租金将呈下降趋势。
 
 <figure>
-  <img src="https://i.loli.net/2020/09/19/2TrMpAYwWm9bkjy.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -51,7 +56,7 @@ image-sm: https://picsum.photos/500/300?image=101
 近几年，对于长租公寓的投资在机构投资者和个人投资者中也很有人气。即便在日本经济不景气的情况下，作为刚需的住房租赁市场，受经济周期影响小，抵御力强，租金和空置率预计都不会有太大浮动。这一点在2008年的金融危机中便得到了印证。
 
 <figure>
-  <img src="https://i.loli.net/2020/09/19/PJr9QRC4xpjq1E6.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
 
@@ -64,7 +69,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 
 <figure>
-  <img src="https://i.loli.net/2020/09/19/MnojF8JPdhYe5Qb.png" alt="Placeholder"/>
+  <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
   <!--<figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>-->
 </figure>
  

@@ -7,6 +7,20 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post: 
+  - https://i.loli.net/2020/09/20/PWaVl7hvEYKTOH4.jpg
+  - https://i.loli.net/2020/09/20/bWSHq3NjrMi6DVh.jpg
+  - https://i.loli.net/2020/09/20/fbDj7EAsXVStFvT.jpg
+  - https://i.loli.net/2020/09/20/3myN8HoDsYuWJbU.jpg
+  - https://i.loli.net/2020/09/20/IHnuZo6iPAVWtJO.jpg
+  - https://i.loli.net/2020/09/20/y67PuAJkNjKox8R.jpg
+  - https://i.loli.net/2020/09/20/klpbIxH4reXL5G8.jpg
+  - https://i.loli.net/2020/09/20/ZSJlBC65ecrkREW.jpg
+  - https://i.loli.net/2020/09/20/tf5i91mnlsNg4hY.jpg
+  - https://i.loli.net/2020/09/20/tlsEKO76bP2uSBT.jpg
+  - https://i.loli.net/2020/09/20/IGkFuQAj8Ziyqdf.jpg
+  - https://i.loli.net/2020/09/20/mJjskMQoIRG39f4.jpg
+  - https://i.loli.net/2020/09/20/fVhigZ3rp6DK17B.jpg
 ---
 
 <i style="font-size:15px">微信公众号《艺术市场通讯》7月2日发布</i>
@@ -21,18 +35,18 @@ image-sm: https://picsum.photos/500/300?image=101
 在多年之前，画廊与拍卖行对于将艺术品陈列到虚拟世界中，供人搜索的观点持怀疑态度。因为一件雕塑和绘画的价值往往与其稀缺性挂钩。然而，一旦将作品的电子版传播到网络上，拥有者的唯一属性就不再起作用，所有人都可以进行模仿。除此之外，购买艺术品所带来的身份感更是网上拍卖不能复制的。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/1.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
     <figcaption>▲  线上艺术品交易藏家按年龄分类统计</figcaption>
 </figure>
 
 这一顾虑适用于那些大收藏家们，但是对于刚入门的新兴藏家来说，他们呼唤价格透明度，而不是像大藏家一样遮遮掩掩。这一需求，让互联网的进入实际上打开了新的艺术市场，将艺术交易从封闭的小圈子里，带到了更大舞台之上。对于出版业与音乐界来说，互联网将夺走他们的低端市场，但是对于艺术来说，却恰恰相反。互联网让原本沉在底部的小额艺术品收藏需求得到了满足。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/2.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
     <figcaption>▲ 原本估价在400-600美元之间的中国瓷器，在网上拍卖中以812500美金高价成交</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/3.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
     <figcaption>▲ 2017年4月，毕加索的版画《在灯下的玻璃杯（Still Life with Glass under the Lamp）》在线上拍卖中拍出250,000 美金价格</figcaption>
 </figure>
 
@@ -48,7 +62,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/4.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
     <figcaption>▲  艺术类Instagram账号粉丝排行</figcaption>
     </figure>
 </div>
@@ -62,7 +76,7 @@ Instagram的数据也见证了艺术行业中博览会与线上艺术品交易�
 Paddle8创业公司成立于2011年，原本是售卖当代艺术品，在2012年改变了整体策略，开始专注于拍卖。他们的目标群体在艺术市场中端客户，购买力价格在1000美金到10万美金之间。早在2014年，Paddle8就达到了36.8百万美金的交易额。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/5.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
     <figcaption>▲  Paddle8创始人</figcaption>
 </figure>
 
@@ -70,7 +84,7 @@ Paddle8创业公司成立于2011年，原本是售卖当代艺术品，在2012�
 Artnet与1989年成立于柏林，在1995年提供互联网类服务。他们的服务内容很广，除了线上拍卖之外，还有囊括最多全球拍卖结果的艺术数据库。每月的网站访问量达到了两百万人次。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/6.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
     <figcaption>▲ Artnet拍卖页面</figcaption>
 </figure>
 
@@ -78,7 +92,7 @@ Artnet与1989年成立于柏林，在1995年提供互联网类服务。他们的
 Saatchi Art起家于洛杉矶，在2014年8月被需求媒体公司（Demand Media）收购，它提供在线画廊服务。客户在这里姓伤到来自全球100多个国家的5000个艺术家创作的500000件作品，包括绘画、雕塑和摄影。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/7.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
     <figcaption>▲ 网上艺术品交易平台市场排名</figcaption>
 </figure>
 
@@ -89,7 +103,7 @@ Saatchi Art起家于洛杉矶，在2014年8月被需求媒体公司（Demand Med
 除此之外，Artsy还重点发展了推荐系统，以引导新用户。Artsy包括了网站与手机app, 客户可以在线随时随地查看艺术品，而不用移步到实体画廊中。用户使用网站时间越长，收藏的艺术品越多，Artsy就越能根据他的口味进行推荐，并将在他感兴趣的拍卖开始前发邮件提醒。为了提高推荐的准确度，Artsy针对每个艺术品都进行了关键词标注，客观性的标注例如种类是油画、水彩画等。主观性的标注有一个由艺术史专家与学者组成的团队，亲自进行讨论得出最适合的关键词。对于许多年轻的收藏家来说，这种自我教育式的进步比雇佣一个艺术咨询专家讲解画廊要更为吸引人。因为画廊常常以高冷的姿态示人，让顾客感到不受欢迎。但是Artsy的搜索服务却不会让人不快，还能接触到更多选择。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/8.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
     <figcaption>▲ Artsy app界面</figcaption>
 </figure>
 
@@ -99,15 +113,15 @@ Saatchi Art起家于洛杉矶，在2014年8月被需求媒体公司（Demand Med
 佳士得早在2014年就提出将在网上拍卖上投入20百万美金。到如今佳士得的LIVE板块已经常态化。苏富比则显得较为谨慎，在2014年他则于eBay合作，在eBay上进行拍卖直播，后来才慢慢发展为自己独立开设网上拍卖板块。富艺斯则颇有后起之秀的冲劲，很早开始发展自己的网上拍卖网站，并与多方艺术品拍卖平台合作。例如在2017年的纽约版画拍卖上，成交价格达到了6.2百万美金，打破了过往的版画记录。有88%的拍品成功拍出，其中有35%是来自网上的出价。大约一半的网上出价者是通过富艺斯的在线拍卖官网进入，还有一半则是来自其他网站引流，例如Artsy, Invaluable 和eBay。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/9.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
     <figcaption>▲ 苏富比与eBay,合作的网上拍卖现场</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/10.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
     <figcaption>▲ 网上拍卖直播现场</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/11.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
     <figcaption>▲ 佳士得网上拍卖页面</figcaption>
 </figure>
 
@@ -121,14 +135,14 @@ Saatchi Art起家于洛杉矶，在2014年8月被需求媒体公司（Demand Med
 据Hiscox的2018年线上交易情况报告，全球线上艺术品交易额在2917年上涨了12%，与2016年的15%增速与2015年的24%增速相比，上涨势头不再强劲。这种减速可能是因为随着用户基数的变大，获得和之前的一样的高增长率非常困难。此外，一些传统的拍卖行业正在追上步伐，尝试去适应互联网时代，更别说体量更小、反应更灵活的画廊与画商。同时，调查还发现2017年在网上购买艺术品的藏家比例在减少。这两个数据反映了线上艺术品交易行业在转化犹豫的藏家尝试网上购买，和转化偶尔消费藏家为频繁消费藏家上遇到了困难。但是，值得欣喜的是，那些活跃的藏家正在通过网络购买更多的艺术品。据预期，在2018年平均线上消费超过5000美金的藏家将会从2017年的21%，升高到占25%。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/12.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
     <figcaption>▲ 线上艺术品交易情况2013-2017</figcaption>
 </figure>
 
 随着整体线上艺术品交易市场的扩大，竞争变得更加激烈，行业整合也在加速，在2017年里，许多的收购与兼并正在发生。行业人士普遍认为在未来行业资源会更加集中，从中脱颖而出的办法则是以绝对优势占据价值链条的一环。传统拍卖行在行业整合过程中，体现了强劲的实力。如果我们把苏富比、佳士得和Heritage Auction三者的2017年交易额相加后超过了833百万美金，其中19.7%来自于线上销售。和互联网基因的艺术交易平台不同，传统艺术从业者不需要费大力气去收集优质艺术品，他们与藏家们早已有了稳固的联系，在发展线上艺术品销售上有些得天独厚的优势。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Internet-art-revolution/13.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
     <figcaption>▲ 苏富比、佳士得和Heritage Auction三年线上交易情况</figcaption>
 </figure>
 

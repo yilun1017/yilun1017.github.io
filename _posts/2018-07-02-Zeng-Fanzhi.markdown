@@ -7,6 +7,21 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post:
+  - https://i.loli.net/2020/09/20/rklQmORCjo5yiat.png
+  - https://i.loli.net/2020/09/20/Afsd6PagwGrhB7N.jpg
+  - https://i.loli.net/2020/09/20/7DjOeGMahg8RdTL.png
+  - https://i.loli.net/2020/09/20/235oelvJhusa9Zz.jpg
+  - https://i.loli.net/2020/09/20/jYurTU3XOPCoeLw.jpg
+  - https://i.loli.net/2020/09/20/qRuJbWwNCEpIQ1G.jpg
+  - https://i.loli.net/2020/09/20/pVCU6i38KTszrwd.jpg
+  - https://i.loli.net/2020/09/20/wXrQiFqOzb19Kaf.jpg
+  - https://i.loli.net/2020/09/20/EAkoizBU2LTSV8y.jpg
+  - https://i.loli.net/2020/09/20/5levjWSTfpb8EGK.jpg
+  - https://i.loli.net/2020/09/20/uFPQWkHmsjnZxOg.jpg
+  - https://i.loli.net/2020/09/20/JzSobaTjyYvqpKh.png
+  - https://i.loli.net/2020/09/20/KkPW7peTVm2BNYM.jpg
+  - https://i.loli.net/2020/09/20/kQJa2ASOCibqyuI.jpg
 ---
 
 <i style="font-size:15px">微信公众号《艺术市场通讯》6月26日发布</i>
@@ -21,7 +36,7 @@ image-sm: https://picsum.photos/500/300?image=101
 曾梵志出身于武汉，在他出生两年后，文化大革命便在全国风起云涌。由于他出身于工人家庭，所以并没有受到迫害。但是幼时的记忆仍然对他有着潜移默化的影响，例如他记得当时人们总是小心翼翼地说话，对于毛泽东相关的物件非常敏感。小学下课，曾梵志走在路上，经常会遇到喊口号、游行、批斗等。相伴他童年的这场政治活动无疑在曾梵志心里种下了种子，后来闻名遐迩的面具系列就因其涉及中国的红色背景，而颇具深度。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/1.png?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
     <figcaption>▲ 曾梵志</figcaption>
 </figure>
 
@@ -31,12 +46,12 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:60%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/2.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
     <figcaption>▲ 《肉系列之三 献血过量》1992</figcaption>
     </figure>
 </div>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/3.png?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
     <figcaption>▲ 《协和医院系列之三》（三联作） 1992</figcaption>
 </figure>
 
@@ -49,13 +64,13 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:60%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/4.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
     <figcaption>▲ 《肖像》</figcaption>
     </figure>
 </div>
 <div style="width:80%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/5.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
     <figcaption>▲ 《面具系列 4号》1997</figcaption>
     </figure>
 </div>
@@ -68,7 +83,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/6.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
     </figure>
 </div>
 
@@ -76,19 +91,19 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/7.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
     </figure>
 </div>
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/8.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
     <figcaption>▲ 《面具系列 1996 No. 6》</figcaption>
 </figure>
 
 在面具系列的最后阶段，曾梵志画出了那副知名的《最后的晚餐》。在这幅画里，曾梵志取材于达芬奇的《最后的晚餐》，将自己对中国社会的观察与感受到的十年间祖国的变化，通过这件作品做一个总结。曾梵志解释道，画作中的人物都系着红领巾，只有“犹大”系着一条金色的领带，意思是他放弃了最终的追求和理想。”《最后的晚餐》画中基督与信徒们以生动的手势与肢体动作进行交谈，桌上剖开的西瓜象征权力的分配，并在两侧挂着中国书法，重新诠释去解析圣经故事的知名场景。这种中西合璧的效果，体现了艺术家在宏观上比对西方资本主义及中国共产集体主义，虽影射大环境，却也更加间接而隐晦，不复早期作品中的内心激荡与置入自身为画中角色。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/9.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
     <figcaption>▲ 《最后的晚餐》2001</figcaption>
 </figure>
 
@@ -99,7 +114,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:70%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/10.jpg?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
     <figcaption>▲ 《Fly signed‘Zeng Fanzhi’in Pinyin》2000</figcaption>
     </figure>
 </div>
@@ -111,7 +126,7 @@ image-sm: https://picsum.photos/500/300?image=101
 在2013年的天价之后，曾梵志的面具系列就成为了拍卖行的金子招牌，价格也居高不下。2017年，曾梵志《面具系列1996 No.6》再次现世，最后以7900万人民币落槌。今年6月19日举行的嘉德春拍中，《面具系列第十七号》以1300万成为当天过千万拍价的12件当代艺术品之一。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/11.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
     <figcaption>▲ 《面具系列第十七号》</figcaption>
 </figure>
 
@@ -124,7 +139,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:90%; margin:auto;">
     <figure>
-        <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/12.png?raw=true" alt="Placeholder"/>
+        <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
     <figcaption>▲ 《拉奥孔》2015</figcaption>
     </figure>
 </div>
@@ -132,10 +147,10 @@ image-sm: https://picsum.photos/500/300?image=101
 在2014年，曾梵志应邀参加卢浮宫举行的特别展览，他的作品《从1830年至今 No.4》（2014）与欧仁•德拉克罗瓦的名作《自由领导人民》（1830）并列展出。然而即便有卢浮宫对于他新作的肯定，艺术市场的仍聚焦在他的面具系列之上，了解他新作的人并不多。同时，拍卖行将面具系列十年间共170张作品反复叫卖，进一步加深了大众对于面具系列的印象。最后，事情的发展已无关曾梵志本人的意愿，直到今天曾梵志也难以脱下这曾让他走向辉煌的“面具”。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/13.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Zeng-Fanzhi/14.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
     <figcaption>▲ 《从1830年至今 No.4》2014</figcaption>
 </figure>
 

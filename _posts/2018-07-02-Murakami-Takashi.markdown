@@ -7,6 +7,23 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post:
+  - https://i.loli.net/2020/09/20/R8Z24mFwCPfTDMe.jpg
+  - https://i.loli.net/2020/09/20/HPtsGdW1ULrcKCQ.jpg
+  - https://i.loli.net/2020/09/20/dETGRZuAsjy83Io.jpg
+  - https://i.loli.net/2020/09/20/q1UilAfjpQy47Fo.jpg
+  - https://i.loli.net/2020/09/20/LrP9wu5xQB3vh7D.jpg
+  - https://i.loli.net/2020/09/20/DUNeP8zK2YnSaMc.jpg
+  - https://i.loli.net/2020/09/20/BY1yJMdA4k2cGZC.jpg
+  - https://i.loli.net/2020/09/20/JfMA5j9vZBYy1ng.jpg
+  - https://i.loli.net/2020/09/20/H4QvbxtJoZYw9LX.jpg
+  - https://i.loli.net/2020/09/20/pGm3tY8cyfkwJ9C.jpg
+  - https://i.loli.net/2020/09/20/JdMKPTFfmBbpXzW.jpg
+  - https://i.loli.net/2020/09/20/UdlwaceZRkSYugb.jpg
+  - https://i.loli.net/2020/09/20/9NqHArx3TOnoMmc.jpg
+  - https://i.loli.net/2020/09/20/iLcRDSIeY7d3NXa.jpg
+  - https://i.loli.net/2020/09/20/pwOSL6yK9hZgjFn.jpg
+  - https://i.loli.net/2020/09/20/f815ZgVWmtwBPDi.jpg
 ---
 
 <i style="font-size:15px">微信公众号《艺术市场通讯》6月19日发布</i>
@@ -22,7 +39,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:40%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/1.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆</figcaption>
     </figure>
 </div>
@@ -32,7 +49,7 @@ image-sm: https://picsum.photos/500/300?image=101
 虽然研习的是日本的传统绘画，但是村上隆对当代艺术更加感兴趣，而且对日本当前的艺术发展非常失望。他认为日本艺术只是对希望艺术的模仿，而没有自己的特点。也是从那时起，村上隆开始摸索自己的艺术风格，并创作了专属的pop形象：Mr. DOB。然而村上隆初期的艺术作品并没有受到本国人的欢迎。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/2.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
     <figcaption>▲ Mr. DOB形象</figcaption>
 </figure>
 
@@ -41,7 +58,7 @@ image-sm: https://picsum.photos/500/300?image=101
 村上隆经过反复的思量决定，先在西方艺术世界占有一席之地之后，重新回到日本发展。他希望创作出既和深深植入他心中的日本历史文化相关，又有新鲜感能被国际市场所认可的作品。最后，他将目光投向了日本动漫与漫画。正如许多波普艺术家一样，村上隆也关注着大众消费品中所含的内容、象征、符号、色彩等元素，然后将其运用到艺术创作之中。在日本真正的高雅文化都是含蓄内敛的，漫画和动漫则是一种大众消费品，算不上是艺术，只是一种亚文化。村上隆却认为漫画和动漫是日本独立发展出来的，受西方审美少的文化，可以说代表了日本独特的一面。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/3.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
     <figcaption>▲ 欲望之火（flame of desire，2013）</figcaption>
 </figure>
 
@@ -50,15 +67,15 @@ image-sm: https://picsum.photos/500/300?image=101
 超扁平化风格一炮而红，村上隆作品的拍卖价格也不断突破新高。村上隆并不满足于只当一位艺术家，他还自己开设了一家公司，专门售卖自己的艺术品周边，覆盖每一个价格区间，以获得更多的利润。除了自己开设公司，村上隆还与许多商业公司进行了联名合作，其中最为出名的莫过于与LV集团推出的手包系列。除此之外，还有与化妆品品牌，腕表品牌，甚至汽车品牌进行联名。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/4.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆与LV</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/5.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆与植村秀</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/6.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆与浅冈肇</figcaption>
 </figure>
 
@@ -67,7 +84,7 @@ image-sm: https://picsum.photos/500/300?image=101
 <h4 style="text-align:center; color:red;">丨深谙商人运作之道丨</h4>
 很多艺术家在被评为是一个商人时，会感到恼羞成怒，极力摆脱与商业的联系，追求艺术的纯粹性，但是村上隆却从不回避他对钱的渴望。他在美国打拼的初期曾度过一段经济窘迫的时期，从这段经历里他总结出了一个经验：只有艺术家活下来了，他的艺术才能活下来，所以搞艺术必须要有钱作为基础。
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/7.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆与他的画作</figcaption>
 </figure>
 
@@ -76,7 +93,7 @@ image-sm: https://picsum.photos/500/300?image=101
 村上隆商人基因除了体现在对金钱的敏感上，还体现在对于市场的敏感上。人们想象中的艺术家，应当是脱离人间烟火，牺牲很多去追求自己的表达、和艺术的。然而，村上隆却从非常世俗的角度去审视艺术。他认为艺术界和其他产业并没有许多区别，只不过生产者换成了艺术家，但是仍有一套完整的商业运作体系在背后，例如营销、管理、运输等。所以说，艺术就是一门生意，想要把生意做得好，就得熟悉艺术生意的运作方式。村上隆还特别点出了知名评论家在艺术家成名之路上，起着转折点和推手的作用，所以只要拿下评论家，艺术之路便会豁然开朗。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/8.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆自画像</figcaption>
 </figure>
 
@@ -84,7 +101,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/9.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆最为知名的太阳花印花</figcaption>
     </figure>
 </div>
@@ -93,7 +110,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:80%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/10.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆为LV设计的印花</figcaption>
     </figure>
 </div>
@@ -107,7 +124,7 @@ image-sm: https://picsum.photos/500/300?image=101
 
 <div style="width:90%; margin:auto;">
     <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/11.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆语录</figcaption>
     </figure>
 </div>
@@ -128,29 +145,29 @@ image-sm: https://picsum.photos/500/300?image=101
 近年来，村上隆仍然继续着与商业品牌的合作，将自己的标志性太阳花印花印在不同的载体上。例如，最近村上隆便与优衣库合作，将自己的艺术符号和哆啦A梦形象放在一起，印在T恤上。这个合作产品展现了日本的当代艺术文化标志，村上隆的艺术符号也通过遍布世界的优衣库门店而传播地更广。他所设计的太阳花印花的哆啦A梦玩偶一经上架，便销售一空，可见其商业价值。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/12.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆自画像</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/13.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆与优衣库</figcaption>
 </figure>
 
 然而，近年来村上隆在艺术作品方面的产出变少。他在大批量复制生产一些成功画作系列之后，开始寻找新的创作灵感。他找到的可能的新灵感是日本美术史，自2009年起便一直与一位日本艺术史学者Nobuo Tsuji保持交流。通过接受Nobuo Tsuji的指导，村上隆实现了他与日本传统文化更深的共鸣和理解，得到了新的创作养料。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/14.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆与日本艺术史学者Nobuo Tsuji</figcaption>
 </figure>
 
 今年4月在美国波士顿举办的个展：村上隆：怪人血统“Takashi Murakami： Lineage of Eccentrics”中就是学者Nobuo Tsuji向村上隆提出挑战后的成果展示。Tsuji会挑出一个主题，然后村上隆需要根据这个主题制作一件艺术品作为回应。有一次Tsuji选择了日本江户时期的画家曾我萧白的龙作为主题，并且要求村上隆必须独立完成这件作品，不可以借助助手的帮助。在此前，村上隆的画作制作流程通常是在电脑上进行设计，然后由助手进行最后的绘制。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/15.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[14] }}" alt="Placeholder"/>
     <figcaption>▲ 日本江户时期的画家曾我萧白的龙</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-Murakami-Takashi/16.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[15] }}" alt="Placeholder"/>
     <figcaption>▲ 村上隆处理后的龙</figcaption>
 </figure>
 

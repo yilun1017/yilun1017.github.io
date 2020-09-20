@@ -7,6 +7,22 @@ categories:
 description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
+image-post: 
+  - https://i.loli.net/2020/09/20/WGcF6yhI8LoJqe7.jpg
+  - https://i.loli.net/2020/09/20/GmjwBHOPxqLIcRp.jpg
+  - https://i.loli.net/2020/09/20/Jqe3PM1yLihBQ9c.jpg
+  - https://i.loli.net/2020/09/20/lNwkVnaMzYEoHm4.jpg
+  - https://i.loli.net/2020/09/20/O2xzC3vk4Bbng59.jpg
+  - https://i.loli.net/2020/09/20/jsOyEBrzChFIVx4.jpg
+  - https://i.loli.net/2020/09/20/vpiVRrQbK7mcOWG.jpg
+  - https://i.loli.net/2020/09/20/H5KUcqtYVnSZbID.jpg
+  - https://i.loli.net/2020/09/20/aLiwlB5HGP6NeVT.jpg
+  - https://i.loli.net/2020/09/20/BhqbD6XsjuWSKc4.jpg
+  - https://i.loli.net/2020/09/20/xJFnwTbWOXHVkQ2.jpg
+  - https://i.loli.net/2020/09/20/1XGnJlZ2ksPIQNT.jpg
+  - https://i.loli.net/2020/09/20/y67V3Id8vBk2xGc.jpg
+  - https://i.loli.net/2020/09/20/VS86r2Chal3qzBQ.jpg
+  - https://i.loli.net/2020/09/20/oNmH67YSD8x1GIb.jpg
 ---
 
 <i style="font-size:15px">微信公众号《艺术新闻中文版》6月28日发布</i>
@@ -16,14 +32,14 @@ image-sm: https://picsum.photos/500/300?image=101
 <b>上海。</b>明珠美术馆最新展览《读书行路：<路易威登游记>艺术展》（Reading Walking: Louis Vuitton Travel Book）于6月24日开展。此次展览由明珠美术馆发起，展览的主题“读书行路”取自中国古代书画大家董其昌名句<!--break-->“气韵不可学，此生而知之，自有天授，然亦有学得处，读万卷书，行万里路，胸中脱去尘浊，自然丘壑内营，立成鄄鄂”。美术馆希望通过展出原画稿，以带领读者通过艺术家之眼游历世界。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/1.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[0] }}" alt="Placeholder"/>
     <figcaption>▲ 明珠美术馆展览现场</figcaption>
 </figure>
 
 本次展览共有16位国内外艺术家及插画家的参与，涉及近300件艺术作品。参展艺术家来自世界各地（法国、美国、英国、比利时、德国、意大利、瑞士、克罗地亚、刚果、日本与中国），其中包括法国的让·克劳德·弗洛克（Floc’h）、英国的布莱斯·德拉蒙德（Blaise Drummond）、意大利的洛伦佐·马托堤（Lorenzo Mattoti）与中国的李昆武（Li Kunwu）、刘小东（Liu Xiaodong）等。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/2.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[1] }}" alt="Placeholder"/>
     <figcaption>▲ 明珠美术馆展览现场</figcaption>
 </figure>
 
@@ -33,62 +49,62 @@ image-sm: https://picsum.photos/500/300?image=101
 明珠美术馆的展览区域被分为16个独立的空间，分别属于16位艺术家、插画家。空间之间用颜色加以区别，并设计了专属的陈列方式以传递艺术家们的旅行故事。策展人李丹丹分享道：“在策展的时候，我意识到：虽然表面上是艺术家自主选择了他们想要游历的地方，但是实际上那些地方也在召唤着、选择着艺术家们。”
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/3.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[2] }}" alt="Placeholder"/>
     <figcaption>▲ 明珠美术馆展览现场展览入口处的eBoy作品</figcaption>
 </figure>
 
 在展览的入口处展示着来自德国的 eBoy 的作品。eBoy 是由来自东柏林的斯文德·施密塔尔（Kai Vermehr）、史蒂芬·索尔特格（Steffen Sauerteig），与来自西柏林的凯伊·维默尔（Svend Smital）组成。他们热衷于将科技与艺术结合起来，并选择了像素作为其核心的艺术语言。经像素化后的世界突然变得袖珍可爱了起来，让人想起那些旧时的欢乐时光，比如街机游戏、乐高玩具。在 eBoy 的眼中，日本东京就像模拟人生中的游戏界面，既熟悉又陌生。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/4.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[3] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/5.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
     <figcaption>▲ eBoy原稿展示</figcaption>
 </figure>
 
 继续漫步向前，迎接访客的是一片纯白的空间。那是装着布莱斯·德拉蒙德（Blaise  Drummond）的北极记忆的白盒子。德拉蒙德没有像别的艺术家一样，选择人声鼎沸的都市，而是剑走偏锋决定来一场与大自然的对话。纯粹的而略带反光的白墙瞬间将观众带到了风声呼啸、廖无人烟的北极。他除了用画笔勾勒形状之外，还采用了锡箔纸、瓦楞纸与网格纸等不同材料进行拼贴，将他所见的北极小屋、在冰峡间穿过的轮船等风光描绘出来。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/6.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
     <figcaption>▲ 布莱斯·德拉蒙德展厅</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/7.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[6] }}" alt="Placeholder"/>
     <figcaption>▲ 布莱斯·德拉蒙德原稿展示</figcaption>
 </figure>
 
 与白盒子形成鲜明对比的是来自艺术家托马斯·奥特（Thomas Ott）的黑盒子。托马斯·奥特于1966年出生于苏黎世，是屈指可数的几名绘制黑白漫画的艺术家之一。他的每一件刮画作品都需要极大的耐心与专注，他会使用一把美工刀在涂着印度墨水的刮画板上刮刻，以裸露处涂层下方的白色。美国的第66号公路就在这黑白两色的勾画之间，慢慢成形。奥特的世界充满了孤独的漂泊氛围，正如66号公路见证的无数个逃亡的故事。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/8.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[7] }}" alt="Placeholder"/>
     <figcaption>▲ 托马斯·奥特展厅</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/9.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[8] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/10.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[9] }}" alt="Placeholder"/>
     <figcaption>▲ 布莱斯·德拉蒙德原稿展示</figcaption>
 </figure>
 
 除此之外，还有来自中国的艺术家李昆武与刘小东。李昆武在1955年出生于云南，他并没有接受艺术或学院教育的机会，所以不得不自学绘画，并找到了专属于自己的艺术语言——连环漫画。他的漫画作品《从小李到老李——一个中国人的一生》更是为他叩开了欧洲的大门。这次的古巴之旅让他惊叹，古巴并不是只有中国人熟知的古巴排球队的那一面，还有更多未被发现的亮点与精彩。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/11.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/12.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[11] }}" alt="Placeholder"/>
     <figcaption>▲ 李昆武原稿展示</figcaption>
 </figure>
 
 而艺术家刘小东出身在中国的另一端——东北小镇金城。刘小东的创作过程模仿了电影拍摄过程，将过去所学的社会写实主义传统采用现代化的诠释方式，刻画了士兵、农民工和餐馆老板等普通人之间的情感与意识。在这次南非之旅的创作中，刘小东的作品结合了电影制作技术、摄影和书面文字，详实而敏锐地融合并刻画了他在未知领域与文化方面的经历。
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/13.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[12] }}" alt="Placeholder"/>
 </figure>
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/14.jpg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[13] }}" alt="Placeholder"/>
     <figcaption>▲ 刘小东原稿展示</figcaption>
 </figure>
 
@@ -96,7 +112,7 @@ image-sm: https://picsum.photos/500/300?image=101
 上述这些轻盈美妙的作品都来自于路易威登出版社2013年开始的艺术出版项目《路易威登游记（Louis Vuitton Travel Book）》。每一本游记平均要花费两年的时间精心打磨：出版社先邀请来自不同国家与艺术风格的艺术家，随后由艺术家自由选择自己想要游历的目的地。经出版社联络驻留地点后，艺术家可凭心愿，在目的地停留或长或短的日子。结束旅程后，艺术家将回到自己工作室创作总共120幅画稿（耗时八个月到一年）。接下来则是扫描、排版、书籍设计与最后印刷装裱环节。路易威登出版社负责人朱利·古尔日耳（Julien Guerrier）评论道：“做一本书和做一件衣服是完全两个概念。时尚行业日新月异，每天都有新的事情在发生。而出版业却需要长时间兢兢业业地投入才能有所成果。”
 
 <figure>
-    <img src="https://github.com/yilun1017/blog-img/blob/master/2018-07-02-read-and-travel-Louis-Vuitton-Travels/15.jpeg?raw=true" alt="Placeholder"/>
+    <img src="{{ page.image-post[14] }}" alt="Placeholder"/>
     <figcaption>▲ Louis Vuitton 旅行藏书箱</figcaption>
 </figure>
 
