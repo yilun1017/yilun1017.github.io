@@ -8,25 +8,19 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post: 
-  - https://i.loli.net/2020/09/20/H2jd8TYrcfeo6GQ.jpg
-  - https://i.loli.net/2020/09/20/ykYfBFeG5RHmVCK.jpg
-  - https://i.loli.net/2020/09/20/Ah4e5lREvDsLw9M.jpg
-  - https://i.loli.net/2020/09/20/IBLP7Tx8tKUA2Vv.jpg
-  - https://i.loli.net/2020/09/20/tmn1jXyIVZ7UF3o.jpg
-  - https://i.loli.net/2020/09/20/a3UKTcquxVBysdj.jpg
-  - https://i.loli.net/2020/09/20/9bFSJDTPR15CZcG.jpg
-  - https://i.loli.net/2020/09/20/OSwa3Tk7mtbKgWu.jpg
-  - https://i.loli.net/2020/09/20/UW1D7c5EMAKwmPy.jpg
-  - https://i.loli.net/2020/09/20/mshvyB2R6xIn7Nc.jpg
-  - https://i.loli.net/2020/09/20/J3peOnXlirZ2a5Y.jpg
-  - https://i.loli.net/2020/09/20/W39wDlZ5o6uFGBj.jpg
-  - https://i.loli.net/2020/09/20/1tPrQoWXNLFYVlp.png
-  - https://i.loli.net/2020/09/20/S15FCv6BIHnxA4V.png
-  - https://i.loli.net/2020/09/20/L6ne8NMCK2rljQ9.jpg
-  - https://i.loli.net/2020/09/20/BIFPwYjZn5poMxU.jpg
-  - https://i.loli.net/2020/09/20/If7iynFBPkEgubT.jpg
-  - https://i.loli.net/2020/09/20/D34M8OkQeV7dr5f.jpg
-  - https://i.loli.net/2020/09/20/VIwPTBns9FYkzra.png
+  - https://i.loli.net/2020/09/21/7evWIf2dGbVhUiZ.jpg
+  - https://i.loli.net/2020/09/21/E8brodKl2gMjQCL.jpg
+  - https://i.loli.net/2020/09/21/TMO7i2P9IFB8xlh.jpg
+  - https://i.loli.net/2020/09/21/rdeo1QRLiXEzTwB.jpg
+  - https://i.loli.net/2020/09/21/zhismZ6o5BNfrKD.jpg
+  - https://i.loli.net/2020/09/21/zniHE3ZYaTmeNPd.jpg
+  - https://i.loli.net/2020/09/21/vkJAnEYTbjs27NF.jpg
+  - https://i.loli.net/2020/09/21/I39dh1OmykQMYqT.jpg
+  - https://i.loli.net/2020/09/21/V9qSNQbeZkds8P7.jpg
+  - https://i.loli.net/2020/09/21/cerinXN67LfqG3F.jpg
+  - https://i.loli.net/2020/09/21/h6EKPidwA5yGLIH.jpg
+  - https://i.loli.net/2020/09/21/VlYei1dZyt5DfRu.jpg
+  - https://i.loli.net/2020/09/21/5Kwh6AvUIy7QPYX.jpg
 ---
 TANC于2019年4月8日发布（翻译）
 
@@ -79,7 +73,7 @@ TANC于2019年4月8日发布（翻译）
   <figcaption>温特图尔/特拉华大学的艺术保护项目，图为对东亚绘画的护理和安全处理，图片来源：conservators-converse.org</figcaption>
 </figure>
 
-<b>书画修复，没有捷径</b>
+<div><b>书画修复，没有捷径</b></div>
 
 “在我看来情况非常严峻。”波士顿美术馆的亚洲修复部门总管杰基·埃尔加（Jacki Elgar）说道，“这里没有捷径。你需要去了解你所经手的画作之后，才能有能力着手去修复它。但是这种经验和知识对于一个生活在美国的人是非常难以掌握的。
 
@@ -109,7 +103,7 @@ TANC于2019年4月8日发布（翻译）
   <figcaption>在弗瑞尔美术馆/赛克勒博物馆东亚绘画保护工作室中，一幅待修复的中国明代黄河地图，图片来源：mcclatchydc.com</figcaption>
 </figure>
 
-<b>中美的两种修复理念</b>
+<div><b>中美的两种修复理念</b></div>
 
 <figure>
   <img src="{{ page.image-post[11] }}" alt="Placeholder"/>

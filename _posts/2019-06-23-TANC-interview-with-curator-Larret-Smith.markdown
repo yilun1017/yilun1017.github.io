@@ -8,25 +8,18 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post: 
-  - https://i.loli.net/2020/09/20/H2jd8TYrcfeo6GQ.jpg
-  - https://i.loli.net/2020/09/20/ykYfBFeG5RHmVCK.jpg
-  - https://i.loli.net/2020/09/20/Ah4e5lREvDsLw9M.jpg
-  - https://i.loli.net/2020/09/20/IBLP7Tx8tKUA2Vv.jpg
-  - https://i.loli.net/2020/09/20/tmn1jXyIVZ7UF3o.jpg
-  - https://i.loli.net/2020/09/20/a3UKTcquxVBysdj.jpg
-  - https://i.loli.net/2020/09/20/9bFSJDTPR15CZcG.jpg
-  - https://i.loli.net/2020/09/20/OSwa3Tk7mtbKgWu.jpg
-  - https://i.loli.net/2020/09/20/UW1D7c5EMAKwmPy.jpg
-  - https://i.loli.net/2020/09/20/mshvyB2R6xIn7Nc.jpg
-  - https://i.loli.net/2020/09/20/J3peOnXlirZ2a5Y.jpg
-  - https://i.loli.net/2020/09/20/W39wDlZ5o6uFGBj.jpg
-  - https://i.loli.net/2020/09/20/1tPrQoWXNLFYVlp.png
-  - https://i.loli.net/2020/09/20/S15FCv6BIHnxA4V.png
-  - https://i.loli.net/2020/09/20/L6ne8NMCK2rljQ9.jpg
-  - https://i.loli.net/2020/09/20/BIFPwYjZn5poMxU.jpg
-  - https://i.loli.net/2020/09/20/If7iynFBPkEgubT.jpg
-  - https://i.loli.net/2020/09/20/D34M8OkQeV7dr5f.jpg
-  - https://i.loli.net/2020/09/20/VIwPTBns9FYkzra.png
+  - https://i.loli.net/2020/09/21/Yy9iazJT3oAV6qw.jpg
+  - https://i.loli.net/2020/09/21/fOSuHKTVpByPRQA.jpg
+  - https://i.loli.net/2020/09/21/9aWNH74KExfQGAB.jpg
+  - https://i.loli.net/2020/09/21/Si84rZbL3C6MmPf.jpg
+  - https://i.loli.net/2020/09/21/TAcwuaqB2bYpzyX.jpg
+  - https://i.loli.net/2020/09/21/A7pdaEFPembO4X6.jpg
+  - https://i.loli.net/2020/09/21/fSZQbTaEzIg5LnP.jpg
+  - https://i.loli.net/2020/09/21/Crp7PifbsZcgvuB.jpg
+  - https://i.loli.net/2020/09/21/rGTe51QUo4AaOYB.jpg
+  - https://i.loli.net/2020/09/21/8KsRPBISvJfa3zA.jpg
+  - https://i.loli.net/2020/09/21/nHqoCGF8jzm45Jr.jpg
+  - https://i.loli.net/2020/09/21/BxGiRkNJd1zMesp.jpg
 ---
 TANC于2018年7月3日发布
 
@@ -41,7 +34,7 @@ TANC于2018年7月3日发布
   <figcaption>▲ 1975年路易丝·布尔乔亚身着她的乳胶制雕塑《阿温扎》(1968-1969)，后成为装置作品《冲突》(1978) 的部分。图片版权©伊斯顿基金会，VAGA授权，摄影：Mark Setteducati</figcaption>
 </figure>
 
-<b>永恒的丝线从何而来</b>
+<div><b>永恒的丝线从何而来</b></div>
 
 策展人菲利普·拉瑞特-史密斯在提到为什么选择“永恒的丝线”这个主题时，解读道：“丝线可以说贯穿了艺术家路易丝·布尔乔亚的创作生涯。从1940年代的人物系列雕塑，到晚期的织物雕塑与绘画，丝线作为布尔乔亚中永恒的符号，有时以具体的一面示人，例如布尔乔亚的家庭是以挂毯修复为生的，以及用丝线悬挂起的雕塑作品；有时则以抽象的一面示人，象征着艺术家渴望始终与母亲相连，就像生命之初的那条脐带从未被剪断一样。”于布尔乔亚，通过缝纫、针线和连接这些具有象征性的举动，为她消解了伴随一生的对于分离和遗弃的恐惧。
 
@@ -65,7 +58,7 @@ TANC于2018年7月3日发布
 
 对于中国观众来说，是为数不多地有机会面对面欣赏艺术家布尔乔亚的作品，策展人拉瑞特-史密斯很有信心地说道：“艺术家布尔乔亚所关注的母题：爱、美、嫉妒、拒绝、孤独与罪恶是世界共通的。所以，我一点也不怀疑中国观众将在这些拥有巨大情感力量与严肃的布尔乔亚作品中得到共鸣。”
 
-<b>布尔乔亚的创作轨迹</b>
+<div><b>布尔乔亚的创作轨迹</b></div>
 
 艺术家路易丝·布尔乔亚，1911年出生于法国巴黎，她的一生都以丰沛的能量在不同领域进行尝试，所以她是雕塑家，也是画家、雕塑家以及装置艺术家。在法国的童年时光成为她最主要的灵感来源，她以身体为基础原型，全方位地深入探索了情感、心理以及个体每日细碎生活中隐藏的最深层的裂痕。在不断尝试中，布尔乔亚找到了一种美丽而牵绕心头的视觉语言，一种属于自己但又能深刻感动大众的语言。
 

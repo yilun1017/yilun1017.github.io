@@ -8,25 +8,25 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post: 
-  - https://i.loli.net/2020/09/20/H2jd8TYrcfeo6GQ.jpg
-  - https://i.loli.net/2020/09/20/ykYfBFeG5RHmVCK.jpg
-  - https://i.loli.net/2020/09/20/Ah4e5lREvDsLw9M.jpg
-  - https://i.loli.net/2020/09/20/IBLP7Tx8tKUA2Vv.jpg
-  - https://i.loli.net/2020/09/20/tmn1jXyIVZ7UF3o.jpg
-  - https://i.loli.net/2020/09/20/a3UKTcquxVBysdj.jpg
-  - https://i.loli.net/2020/09/20/9bFSJDTPR15CZcG.jpg
-  - https://i.loli.net/2020/09/20/OSwa3Tk7mtbKgWu.jpg
-  - https://i.loli.net/2020/09/20/UW1D7c5EMAKwmPy.jpg
-  - https://i.loli.net/2020/09/20/mshvyB2R6xIn7Nc.jpg
-  - https://i.loli.net/2020/09/20/J3peOnXlirZ2a5Y.jpg
-  - https://i.loli.net/2020/09/20/W39wDlZ5o6uFGBj.jpg
-  - https://i.loli.net/2020/09/20/1tPrQoWXNLFYVlp.png
-  - https://i.loli.net/2020/09/20/S15FCv6BIHnxA4V.png
-  - https://i.loli.net/2020/09/20/L6ne8NMCK2rljQ9.jpg
-  - https://i.loli.net/2020/09/20/BIFPwYjZn5poMxU.jpg
-  - https://i.loli.net/2020/09/20/If7iynFBPkEgubT.jpg
-  - https://i.loli.net/2020/09/20/D34M8OkQeV7dr5f.jpg
-  - https://i.loli.net/2020/09/20/VIwPTBns9FYkzra.png
+  - https://i.loli.net/2020/09/21/QLzZMpdOqKfuWTH.jpg
+  - https://i.loli.net/2020/09/21/uXFaoL23yQgEAYD.jpg
+  - https://i.loli.net/2020/09/21/lHRmKTpXegqrGaY.jpg
+  - https://i.loli.net/2020/09/21/rMLQxvUuYHjmkVy.jpg
+  - https://i.loli.net/2020/09/21/hAPmVwNBxTFSdvj.jpg
+  - https://i.loli.net/2020/09/21/vXKCGInqpuArDcT.jpg
+  - https://i.loli.net/2020/09/21/OVStTpkfEKMBJRv.jpg
+  - https://i.loli.net/2020/09/21/boeYB2LXmfys9vu.jpg
+  - https://i.loli.net/2020/09/21/lqwRPAh59JsguKZ.jpg
+  - https://i.loli.net/2020/09/21/nPRDgLl6xMzkYAm.jpg
+  - https://i.loli.net/2020/09/21/FM6n5LS4sRd8yrE.jpg
+  - https://i.loli.net/2020/09/21/3xDPNtXiOLhG2Fg.jpg
+  - https://i.loli.net/2020/09/21/xdYtSI2DTakFPob.jpg
+  - https://i.loli.net/2020/09/21/kAgdZ3ElbV4uCon.jpg
+  - https://i.loli.net/2020/09/21/CWBUl1bEJTAcmj4.jpg
+  - https://i.loli.net/2020/09/21/1NkdmMbiXW4vLw5.jpg
+  - https://i.loli.net/2020/09/21/qpXiaGWA723N4FQ.jpg
+  - https://i.loli.net/2020/09/21/8bgNFkA4sayiqZV.jpg
+  - https://i.loli.net/2020/09/21/fYG7BX9geWsLIFA.jpg
 ---
 TANC于2018年8月10日发布
 
@@ -51,7 +51,7 @@ TANC于2018年8月10日发布
 
 <b>上海。</b>万物是无序且多变的。其中，艺术家始终以觉醒者的姿态，冷峻地考察着周围的环境，同时从环境中汲取灵感，将思考往前再推进一步。8月11日至9月14日期间，上海chi K11美术馆想要呈现的就是陆浩明、吴珏辉、布兰登·弗勒和沈莘4位以不同媒介创作的青年艺术家们的故事。
 
-<b>人与自然关系的诘问</b>
+<div><b>人与自然关系的诘问</b></div>
 
 “我是在香港出生、长大的。在这里新与旧的拉锯从未停歇，每天都有旧的楼房被推倒，新的玻璃高楼拔地而起。香港的市中心就像一座不断生长、消灭的水泥森林，期间回荡着凌乱快速的脚步声。但如果你往城市的边缘开，近一个小时左右，映入你眼帘的是就是全新的景象，一座座的绿山环抱着你。”艺术家陆浩明微仰着头回顾道，“我对于人工与自然的探索大概就是从这里萌芽的。”
 
@@ -89,7 +89,7 @@ TANC于2018年8月10日发布
   <figcaption>▲ 作品《黑方问题集》</figcaption>
 </figure>
 
-<b>我的世界破了一个洞</b>
+<div><b>我的世界破了一个洞</b></div>
 
 对于艺术家吴珏辉来说，《漏洞.Temp》所塑造的沉浸式空间是他对于老电影《异次元骇客》的致敬。
 
@@ -130,7 +130,7 @@ TANC于2018年8月10日发布
 《漏洞.Temp》仅仅展示了异世界仅仅9分钟的面貌，在之后，你觉得会发生什么？
 
 <br>
-<b>在自由爵士落幕之后</b>
+<div><b>在自由爵士落幕之后</b></div>
 
 未见其人，但闻其声。
 
@@ -175,7 +175,7 @@ TANC于2018年8月10日发布
   <figcaption>▲ 作品《在东三街上的抛光防水布和在帕蒂家的餐桌（空圆点图案），打开的锁2》</figcaption>
 </figure>
 
-<b>我相信观众的责任感</b>
+<div><b>我相信观众的责任感</b></div>
 
 在新加坡完成了本科教育的沈莘，在英国读研究生阶段时，突然意识到自己是不同的，那甩不开的“有色人种”标签，让她第一次受到了来自身份认同的刺激。由此，她的焦点从抽象画转为了对图像的关注，随后加入了时间的维度，开始持续产出影像作品。
 
