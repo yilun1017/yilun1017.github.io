@@ -8,13 +8,49 @@ description:
 image: https://picsum.photos/2000/1200?image=101
 image-sm: https://picsum.photos/500/300?image=101
 image-post:
-  - https://i.loli.net/2020/09/21/nFg6Jlvsj8P3Noe.jpg
-  - https://i.loli.net/2020/09/21/c8rN4BIKF1Lezb2.jpg
-  - https://i.loli.net/2020/09/21/kY98eDpCvjN5EK4.jpg
-  - https://i.loli.net/2020/09/21/GmX9eYABNI6qOPn.jpg
-  - https://i.loli.net/2020/09/21/r84NzulDmWOGRoE.jpg
-  - https://i.loli.net/2020/09/21/eNgsvtFclS2LrpH.jpg
-  - https://i.loli.net/2020/09/21/QZKAeDIUP1oF8yf.jpg
+  - https://i.loli.net/2020/09/21/oxtnUOBXdCwVrRM.jpg
+  - https://i.loli.net/2020/09/21/bqDEMO4kcZyT2nG.jpg
+  - https://i.loli.net/2020/09/21/ph8ASBxaYtHK2MC.jpg
+  - https://i.loli.net/2020/09/21/K41hfwiUOZS2E7A.jpg
+  - https://i.loli.net/2020/09/21/xiCdrfbo7Mn8kyI.jpg
+  - https://i.loli.net/2020/09/21/FoKTNstlB4C38rI.jpg
+  - https://i.loli.net/2020/09/21/2SURtq7LAHPrCY5.jpg
+  - https://i.loli.net/2020/09/21/uyOptVXxli68K92.jpg
+  - https://i.loli.net/2020/09/21/nVUGLHFuTRwrpox.jpg
+  - https://i.loli.net/2020/09/21/IZHSJyB8L1MVO6w.jpg
+  - https://i.loli.net/2020/09/21/2cWOdMn1poT9BwL.gif
+  - https://i.loli.net/2020/09/21/rnL1ZEIMWfOdXwt.jpg
+  - https://i.loli.net/2020/09/21/noCkQSdUBF3N5xV.jpg
+  - https://i.loli.net/2020/09/21/VxXnScjpQ9KfwGY.jpg
+  - https://i.loli.net/2020/09/21/KwWeyAd9Ux1PzT5.jpg
+  - https://i.loli.net/2020/09/21/GYCI4fBprA7s9oN.jpg
+  - https://i.loli.net/2020/09/21/qcHmC9j3ANQOoBK.jpg
+  - https://i.loli.net/2020/09/21/WPxrab2Zjn5ltDf.jpg
+  - https://i.loli.net/2020/09/21/LHQXAmaujJfslBI.jpg
+  - https://i.loli.net/2020/09/21/xEezamYZ9ptFXgW.jpg
+  - https://i.loli.net/2020/09/21/tXZB6qxGzNR94Eu.jpg
+  - https://i.loli.net/2020/09/21/fN6XMrRBOGpgFSE.jpg
+  - https://i.loli.net/2020/09/21/6wvfFUrRYpGIMzx.jpg
+  - https://i.loli.net/2020/09/21/uV97tRE1phUCv2j.jpg
+  - https://i.loli.net/2020/09/21/coM89GibyZUwlj7.jpg
+  - https://i.loli.net/2020/09/21/IAyCcjTQuZKEP1p.jpg
+  - https://i.loli.net/2020/09/21/lXyLZe1K9UvMEom.jpg
+  - https://i.loli.net/2020/09/21/z6OsFJiy4Pef81K.jpg
+  - https://i.loli.net/2020/09/21/PZiEy52rtcsN17K.jpg
+  - https://i.loli.net/2020/09/21/TJCVeNgYWzOd6BE.jpg
+  - https://i.loli.net/2020/09/21/U7R9iFbICVWfnjY.jpg
+  - https://i.loli.net/2020/09/21/kdmcGS9U2eiAaMj.jpg
+  - https://i.loli.net/2020/09/21/afhtMVKET4yFROW.jpg
+  - https://i.loli.net/2020/09/21/YWTjgiUuLF9vMGx.jpg
+  - https://i.loli.net/2020/09/21/JVbfweYrKZuLGsN.jpg
+  - https://i.loli.net/2020/09/21/5qhrVmwjoC7ULIO.jpg
+  - https://i.loli.net/2020/09/21/zYlRHDb4Nr7JMvT.jpg
+  - https://i.loli.net/2020/09/21/hqaiosGbdQ4BSRT.jpg
+  - https://i.loli.net/2020/09/21/V72PSyp3uhwn5IG.jpg
+  - https://i.loli.net/2020/09/21/m1GsoIQujTlpf3M.jpg
+  - https://i.loli.net/2020/09/21/D1NOIcZusif2FHe.jpg
+  - https://i.loli.net/2020/09/21/I3WYKnh2X1ubN7p.jpg
+
 ---
 TANC于2019年8月17日发布于<a href="https://mp.weixin.qq.com/s/FojUGLQnQqvf-RIq3bO-Tg">https://mp.weixin.qq.com/s/FojUGLQnQqvf-RIq3bO-Tg</a>
 
@@ -24,7 +60,7 @@ TANC于2019年8月17日发布于<a href="https://mp.weixin.qq.com/s/FojUGLQnQqvf
 
 请准备好一天至少走上两万步的体力和SFP至少达到50的防晒霜，来进入这一程让所有感官变得更加敏感的艺术饕餮之旅。
 
-<h4 style="text-align:center;font-weight:bold;">威尼斯</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">威尼斯</h4>
 
 <div style="padding:0 30% 0 30%;">
     <div style="text-align:left;">
@@ -51,7 +87,7 @@ TANC于2019年8月17日发布于<a href="https://mp.weixin.qq.com/s/FojUGLQnQqvf
 
 <b>伴随双年展，威尼斯的美术馆、艺术机构、教堂、宫殿、剧院等各类场馆也迎来绘画、装置、摄影、音乐等多种形式的展览。</b>双年展内外都是酣畅淋漓的艺术盛宴。
 
-<h4 style="text-align:center;font-weight:bold;">米兰</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">米兰</h4>
 
 站着喝一杯浓缩意式咖啡，一口口咬下巧克力夹心的可颂，米兰的一天就正式开始了。和欧洲的其他城市一样，米兰的古城区曲径通幽但四通八达，即便谷歌地图在手，你还是得在多岔口停上一阵子，仔细辨认到底是走哪个角度的小路。
 
@@ -187,7 +223,7 @@ The Great Animal Orchestra
 
 到了夜晚，头顶明月乘着晚风去弗朗克·帕朗提剧院（Teatro Franco Parenti）背后的泳池旁坐一坐吧，<b>浮在水面上的舞台正举办着日式风情的表演</b>。别忘了点一杯当地人最爱的橙子味的spritz鸡尾酒。
 
-<h4 style="text-align:center;font-weight:bold;">佛罗伦萨</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">佛罗伦萨</h4>
 
 <figure>
   <img src="{{ page.image-post[10] }}" alt="Placeholder"/>
@@ -262,7 +298,7 @@ Cosimo I de’Medici
 
 此外，墨尔本大学牵头的联合30位年轻艺术家的艺术项目“第一委托”（First Commission）也在这座城市展开，以米开朗琪罗的传奇雕塑之作《大卫》为灵感，意在重现人体之美。
 
-<h4 style="text-align:center;font-weight:bold;">罗马</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">罗马</h4>
 
 相比于米兰的现代化建筑，罗马似乎依然停留在昔日的荣光。意大利人常调侃说，罗马这一地方真的很难开始大型工程项目，因为随便一挖就会挖出遗址来。
 
@@ -316,7 +352,7 @@ On Flower Power. The Role of the Vase in Arts, Crafts and Design
 
 <b>在夜幕降临时分，近距离接触位于西斯廷教堂的米开朗基罗的《创世纪》、《最后的审判》与拉斐尔画室的《雅典学院》，穿过古希腊、古罗马的雕塑长廊，两边摆放着闻名遐迩的雕塑《拉奥孔和他的儿子们》（Laocoön and His Sons）与《望楼上的阿波罗》（Apollo Belvedere）等</b>，金光闪闪的地图馆长廊两侧挂着的细致而科学的手绘地图，最后沿着双层螺旋式梯走出结束博物馆之旅。
 
-<h4 style="text-align:center;font-weight:bold;">那不勒斯</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">那不勒斯</h4>
 
 进了意大利南部，你会立刻感到节奏都慢了下来。如果说北部是意大利经济的火车头和接轨国际的先锋，那么在南部的意大利你会看到留存下的传统和历史的沉淀。这里的老奶奶老爷爷会操着那不勒斯方言互相聊天，背着手在街道上闲逛张望。和他们用意大利语问路没准都不太顺畅，更别说英语了。
 
@@ -393,7 +429,7 @@ Painting As a Butterfly
 
 <b>墓地共占地30000平方米，埋葬着那不勒斯最为心碎的故事：</b>三次人民起义运动、三次地震、三次饥荒、五次维苏威火山爆发，还有三次瘟疫。其中，1656年的瘟疫夺去了那不勒斯至少半数的居民的生命。
 
-<h4 style="text-align:center;font-weight:bold;">庞贝</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">庞贝</h4>
 
 庞贝古城是一个天然的戏剧舞台。
 
@@ -418,7 +454,7 @@ Painting As a Butterfly
 
 最让人驻足的，无疑是瞬间被高温岩浆包裹而后冷却形成的动物和人的尸体。既有仍在酣睡中的一家人，也有在公共浴池泡澡到一半的男性，屈腿蜷缩着的孩童等等。
 
-<h4 style="text-align:center;font-weight:bold;">马泰拉</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">马泰拉</h4>
 
 <figure>
   <img src="{{ page.image-post[30] }}" alt="Placeholder"/>
@@ -446,7 +482,7 @@ La Persistenza degli Opposti
 
 展览分为四个部分，以时间为轴向游客讲述达利的创作故事。在马特拉历史城区中心则摆上了三个纪念性雕塑：空间大象（The Space Elephant）、超现实计划（The Surrealist Plan） 和时间之舞II （The Dance of Time II）。
 
-<h4 style="text-align:center;font-weight:bold;">阿尔玛菲海滩</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">阿尔玛菲海滩</h4>
 
 <figure>
   <img src="{{ page.image-post[32] }}" alt="Placeholder"/>
@@ -477,7 +513,7 @@ La Persistenza degli Opposti
 
 在阿尔玛菲海岸的日子可以慢一点、再慢一点，像当地人一样享受Dolce far nience的精神，也就是无所事事的快乐。
 
-<h4 style="text-align:center;font-weight:bold;">西西里岛</h4>
+<h4 style="text-align:center;font-weight:bold;margin-top:1em;margin-bottom:1em;">西西里岛</h4>
 
 在去往西西里岛的最便捷方式自然是飞机，但是却会错过太多风光。不如当个背包客，沿着意大利的南部海岸线坐火车南下。早上在酒店用完早饭，然后背上轻便的行囊开始沿着海岸徒步旅行，中午时分则搭上一趟火车以躲过一天中太阳最为毒辣的几个小时，顺便定下晚上的歇脚点。这路上你会遇到不少几近荒废的小火车站，因为当地居民更爱驾车出行，所以无论是车站还是火车都像来自另一个世纪一样的老旧。恍惚间，你像是进入了另一个时空。
 
