@@ -36,10 +36,10 @@ image-post:
 <a href="https://mp.weixin.qq.com/s/rPLg__TCi6V7NdAM-BrbYQ"><i style="font-size:15px">https://mp.weixin.qq.com/s/rPLg__TCi6V7NdAM-BrbYQ</i></a>
 
 <figure class="nav-fig">
-  <figure style="width:50%;margin:5px; overflow:hidden">
+  <figure style="width:50%; margin:5px; overflow:hidden">
     <img src="{{ page.image-post[0] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
-  <figure style="width:68%;margin:5px; overflow:hidden">
+  <figure style="width:50%; margin:5px; overflow:hidden">
     <img src="{{ page.image-post[1] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
 </figure>
@@ -55,7 +55,7 @@ image-post:
 沿着基金会的水泥楼梯拾阶而上，便可进入 Godard 的世界。一间小小的玄关式房间内，漫不经心的日常摆设瞬间拉近了与访客之间的距离。入门的左手边摆放着一张打开的躺椅，椅背上挂着一件条纹衬衫、polo衫、橙色T恤等衣物，椅子上放着一只白色网球鞋、网球拍和红色毛巾。玄关间内最难以忽视的莫过于贴在墙壁上的大幅汉娜·阿伦特（Hannah Arendt）年轻时的黑白肖像照，以及无处不在的电影元素。墙上保留着 Godard 在1996年的影片《永远的莫扎特》（For Ever Mozart，1996）中名为 Vicky Vitalis 的电影导演角色为自己的新项目《Fatal Bolero》试镜时所用到的场记板，带给人一种戏中戏的恍惚感。
 
 <table  class="nav-fig"><tr>
-<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[3] }}" height="92%"></td>
+<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[3] }}" height="89%"></td>
 <td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[4] }}"></td>
 </tr>
 </table>
@@ -65,7 +65,7 @@ image-post:
 墙上贴着的《我们的音乐》（Notre Musique，2004）电影宣传海报已经泛黄，靠在墙侧的工作板（Mood Board）上，钉着带给 Godard 灵感的肖像与文字，歌德、莫里哀、塞万提斯、伍尔夫、皮兰德娄、陀思妥耶夫斯基…… 穿过玄关来到会客厅，也是他的工作区域。地面上不对称地铺着好几层东方风格的旧地毯，绛红、浅棕的色块与繁复的纹样隔开了冰冷的水泥地面，天花板上留有两块 Godard 本人涂上的深灰色粗大笔触，室内弥漫着一股来自旧书与旧物混杂出的特殊气味。
 
 <table  class="nav-fig"><tr>
-<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[5] }}" height="92%"></td>
+<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[5] }}" height="88%"></td>
 <td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[6] }}"></td>
 </tr>
 </table>
@@ -74,7 +74,7 @@ image-post:
 深棕色的皮革沙发上打着黑色的补丁，一把空着的银色金属椅摆放在不大的工作台前，桌子上是摊开的笔记本、尺子、墨水瓶、手工制作的猫形鼠标垫，以及剪辑进行到一半的影片。三台显示器里，一台用于混音，一台用于剪辑，最后一台用于呈现最后效果。四周墙壁上高高低低挂着从风景到静物的大小装饰画，音箱上的细长花瓶里插着几只干花，衣帽架上随意挂着大衣、围巾和手套。在房间中央的地毯上，摆放着一本由 Godard 如今的伴侣与合伙人 Anne-Marie Miéville 于2003年出版的小书《影像的记录》（Images en parole）。不远处的茶几上摆着一个鞋盒大小的影院模型，由 Miéville 在童年时期创作。这个空间里的所有摆件并不是一比一的复制品，几个月前它们还是与 Godard 朝夕相处的真实生活物件。
 
 <table  class="nav-fig"><tr>
-<td style="width:30%;overflow:hidden;"><img src="{{ page.image-post[7] }}" height="61%"></td>
+<td style="width:30%;overflow:hidden;"><img src="{{ page.image-post[7] }}" height="59%"></td>
 <td style="width:30%;overflow:hidden;"><img src="{{ page.image-post[8] }}"></td>
 <td style="width:30%;overflow:hidden;"><img src="{{ page.image-post[9] }}"></td>
 </tr>
@@ -84,7 +84,7 @@ image-post:
 对面的白墙前竖着一台大尺寸的电视屏，是 Godard 时常用于测试画面效果的监视器。一旁的阿拉伯纹样小桌上叠放着不同时代的投影机、DV机、CD机等。空间内摆放着型号和大小不一的六台音响，声音灵活地跳跃着，和影片中快速切换的画面相互呼应。这是一个乍看之下极平常的室内，但细看下又能觉察到这个房间主人的不同寻常之处，书籍的书档是1983年凭借重返大银幕之作《芳名卡门》获得的威尼斯国际电影节金狮奖奖杯，东侧的墙面上则挂着2014年作品《再见语言》（Adieu au langage）的小型场记板，靠窗小桌上的帆船工艺品旁摆放的则是2018年的那座戛纳电影节特别金棕榈奖奖杯。
 
 <table  class="nav-fig"><tr>
-<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[10] }}" height="92%"></td>
+<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[10] }}" height="88%"></td>
 <td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[11] }}"></td>
 </tr>
 </table>
@@ -94,17 +94,17 @@ image-post:
 
 <table  class="nav-fig"><tr>
 <td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[12] }}"></td>
-<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[13] }}" width="5000%" height="92%"></td>
+<td style="width:50%;overflow:hidden;"><img src="{{ page.image-post[13] }}" width="5000%" height="90%"></td>
 </tr>
 </table>
 <figcaption>Jean-Luc Godard，“Le Studio d’Orphée”，Fondazione Prada, Milano，Photo/Foto: Agostino Osio – Alto Piano Courtesy Fondazione Prada</figcaption>
 
-<div  style="background:red;"></div>
-<div>
-    <div  style="width:50%;height:100%;background:url('{{ page.image-post[12] }}');"></div>
-    <div  style="width:50%;height:100%;background:url('{{ page.image-post[13] }}');"></div>
-    <b>siahsiuj</b>
-</div>
+
+<figure class="nav-fig">
+    <div style="width:50%;height:100%;margin:0 1% 0 1%;background:url('{{ page.image-post[12] }}');"></div>
+    <div style="width:50%;height:100%;margin:0 1% 0 1%;background:url('{{ page.image-post[13] }}');"></div>
+</figure>
+
 
 
 在米兰普拉达基金会标志性的塔楼（Torre）电梯里还安置有 Godard 的声音装置《Accent-sœur》。访客可以在使用电梯的过程中听到他于1988年至1998年间创作的八章系列电影《电影史》（Histoire(s) du cinéma）的音轨。这是 Godard 最为晦涩的作品之一，也被认为是他创作后期的关键性成果，影片使用了大量的影像档案、新闻、哲学类书摘、小说段落、诗歌、肖像等图像与音轨，来讲述电影的演化历史与整个20世纪的时代碎片。Godard 曾在这部跨度十年的系列电影中写道：“我也曾一度相信电影给与了俄耳甫斯（Orpheus，又译为奥菲斯）回头的机会，并且不至造成欧律狄斯（Euridyce）的死亡。但我错了。俄耳甫斯必须为此付出代价” 。
@@ -121,7 +121,7 @@ image-post:
 工作室的茶几上摆着一个鞋盒大小的影院模型，由 Godard 现在的伴侣与合伙人 Anne-Marie Miéville 在童年时期创作，“Le Studio d’Orphée”，Fondazione Prada, Milano，Photo/Foto: Agostino Osio – Alto Piano Courtesy Fondazione Prada
 
 
-<figure style="width:80%; height:100%;">
+<figure style="width:75%; height:100%;">
     <img src="{{ page.image-post[16] }}" alt="Placeholder"/>
 </figure>
 
@@ -170,6 +170,5 @@ image-post:
     <img src="{{ page.image-post[21] }}" alt="Placeholder"/>
 </figure>
 
- 
 
 Yilun
