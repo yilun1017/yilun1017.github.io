@@ -578,11 +578,21 @@
 .nav-fig {
   background: #f8f9f9;
   width: 98%;
+  height: 98%;
   margin:0 auto;
   display: flex; 
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
+
+.crop-fig{
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
 
 
 /**
@@ -726,3 +736,5 @@
     padding-right: 1em;
   }
 }
+
+
