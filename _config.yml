@@ -5,7 +5,7 @@ branch: master
 
 
 # Site/SEO settings
-email: 
+email: louyilun@126.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
@@ -17,11 +17,17 @@ twitter_username:
 default_img: 
 
 # Profile settings
-name: ""
-profile_img: 
-profile: 
-social:
-github: 
+name: "Yilun"
+profile_img:
+  - https://i.loli.net/2020/09/23/dhxOC8pagW2sYwy.jpg
+profile: 娄依伦<br>we can play multiple roles, play around!<br>we can play multiple roles, play around!<br>we can play multiple roles, play around!
+social: 
+  - [qq, qq]
+  - [twitter, twitter]
+  - [weibo, weibo]
+  - [facebook-f, facebook-f]
+  - [linux, linux]
+github: yilun1017.github.com
 
 # Build settings
 markdown: kramdown
