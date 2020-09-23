@@ -42,7 +42,7 @@ image-post:
 </ul>
 与美丽的花朵不同，花艺专用的剪刀非常锋利，更别提花刀这个选项。但是做一个简单的作品，都需要动用300-400次的剪刀，可以说有很大的安全隐患。除此之外，花艺师为了保持手的敏感，不建议带上手套。有时为了追求效率，用手去处理花材。裸手与高频率地使用剪刀都让这份芳香的工作显得不那么美好。
 
-<div class="nav-fig">
+<div class="nav-fig" style="height:500px;overflow:hidden;">
   <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
     <img src="{{ page.image-post[2] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
