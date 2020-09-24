@@ -42,14 +42,15 @@ image-post:
 </ul>
 与美丽的花朵不同，花艺专用的剪刀非常锋利，更别提花刀这个选项。但是做一个简单的作品，都需要动用300-400次的剪刀，可以说有很大的安全隐患。除此之外，花艺师为了保持手的敏感，不建议带上手套。有时为了追求效率，用手去处理花材。裸手与高频率地使用剪刀都让这份芳香的工作显得不那么美好。
 
-<figure class="nav-fig">
-  <figure style="height:500px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[2] }}" alt="Placeholder" height="100%"/>
+<div class="nav-fig" style="overflow:hidden;">
+  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
+    <img src="{{ page.image-post[2] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
-  <figure style="height:500px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[3] }}" alt="Placeholder" height="100%"/>
+  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
+    <img src="{{ page.image-post[3] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
-</figure>
+</div>
+
 <figure>
       <img src="{{ page.image-post[4] }}" alt="Placeholder"/>
 </figure>
@@ -112,19 +113,6 @@ image-post:
     <img src="{{ page.image-post[13] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
   </figure>
 </div>
-
-<figure class="nav-fig">
-  <figure style="height:330px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[11] }}" alt="Placeholder" height="100%"/>
-  </figure>
-  <figure style="height:330px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[12] }}" alt="Placeholder" height="100%"/>
-  </figure>
-  <figure style="height:330px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[13] }}" alt="Placeholder" height="100%"/>
-  </figure>
-</figure>
-
 
 
 花艺师的体验非常有趣，我想继续下去。通过花的语言，我没准能成为一位艺术家呢？

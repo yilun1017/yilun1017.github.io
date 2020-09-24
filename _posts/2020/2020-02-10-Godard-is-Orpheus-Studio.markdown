@@ -46,6 +46,16 @@ image-post:
 <figcaption>Jean-Luc Godard © Agostino Osio/Alto Piano courtesy Fondazione Prada</figcaption>
 
 
+<div class="crop-fig-div" >
+    <div class="crop-fig-div__img">
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[0] }}');width:48%;">
+        <img src="{{ page.image-post[0] }}" alt="Placeholder" height="100%"/>
+      </figure>
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[1] }}');width:48%;">
+      </figure>
+  </div>
+</div>
+<figcaption>Jean-Luc Godard © Agostino Osio/Alto Piano courtesy Fondazione Prada</figcaption>
 
 “俄耳甫斯工作室”（Le Studio d’Orphée）是著名法国电影导演让-吕克·戈达尔（Jean-Luc Godard）开设在米兰普拉达基金会（Fondazione Prada Milano）南方画廊（Sud gallery）的一个永久空间，项目将 Godard 在瑞士罗尔家中工作与生活的一部分完整地转移到了基金会的展厅。这曾是 Godard 自2010年以来的电影工坊及录制和剪辑工作室，其中就包括2018年获得戛纳电影节特别金棕榈奖的《影像之书》（Le Livre d’image）。这也是 Godard 与现任妻子 Anne-Marie Miéville 在过去十年里一直工作生活的地方。项目的命名源自古希腊神话中俄耳甫斯与欧律狄斯的爱情故事。
 
