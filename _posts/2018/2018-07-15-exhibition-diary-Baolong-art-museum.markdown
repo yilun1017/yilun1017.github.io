@@ -68,19 +68,18 @@ image-post:
     </a>
   </nav>
   <div class="gallery">
-        <img class="gallery__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[1] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[2] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[3] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[4] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[5] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[6] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[7] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[8] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[9] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[10] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[11] }}" alt="Placeholder"/>
-        <img class="gallery__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
+        <img id="image-1" class="gallery__img" src="{{ page.image-post[0] }}" alt="Placeholder"/>
+        <img id="image-2" class="gallery__img" src="{{ page.image-post[1] }}" alt="Placeholder"/>
+        <img id="image-3" class="gallery__img" src="{{ page.image-post[2] }}" alt="Placeholder"/>
+        <img id="image-4" class="gallery__img" src="{{ page.image-post[3] }}" alt="Placeholder"/>
+        <img id="image-5" class="gallery__img" src="{{ page.image-post[4] }}" alt="Placeholder"/>
+        <img id="image-6" class="gallery__img" src="{{ page.image-post[5] }}" alt="Placeholder"/>
+        <img id="image-7" class="gallery__img" src="{{ page.image-post[6] }}" alt="Placeholder"/>
+        <img id="image-8" class="gallery__img" src="{{ page.image-post[7] }}" alt="Placeholder"/>
+        <img id="image-9" class="gallery__img" src="{{ page.image-post[8] }}" alt="Placeholder"/>
+        <img id="image-10" class="gallery__img" src="{{ page.image-post[9] }}" alt="Placeholder"/>
+        <img id="image-11" class="gallery__img" src="{{ page.image-post[10] }}" alt="Placeholder"/>
+        <img id="image-12" class="gallery__img" src="{{ page.image-post[11] }}" alt="Placeholder"/>
     </div>
 </div>
 
