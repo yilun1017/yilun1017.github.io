@@ -11,8 +11,8 @@
   overflow: hidden;
   height: 100vh;
   display: grid;
-  grid-template-rows: 5fr 1fr;
-  grid-gap: 1%;
+  grid-template-rows: 2fr 1fr;
+  grid-gap: 2%;
 
   @media screen and (min-width: $large) {
     grid-template-columns: 1fr 5fr;
