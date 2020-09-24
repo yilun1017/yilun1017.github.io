@@ -12,7 +12,7 @@
   height: 100vh;
   display: grid;
   grid-template-rows: 5fr 1fr;
-  grid-gap: 10px;
+  grid-gap: 1%;
 
   @media screen and (min-width: $large) {
     grid-template-columns: 1fr 5fr;
