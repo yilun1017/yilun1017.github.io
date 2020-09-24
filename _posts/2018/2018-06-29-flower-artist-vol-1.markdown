@@ -77,8 +77,6 @@ image-post:
 </div>
 
 
-
-
 <ul>
   <li>花的自由与经历的心流感</li>
 </ul>
@@ -102,18 +100,17 @@ image-post:
 </ul>
 在外教课程中，我看到日本老师的做花过程行云流水，而且他只要一看就知道如何修改意见作品。看似很简单的操作，在我的手里就难于登天。为什么呢？我觉得这就是审美的差距，老师的潜意识能更快地判断美的标准，知道在哪个细微的部分出了错，但是我一定要到问题足够大的时候，才能看出来。为了达到更高的水准，花艺师必须不断地看优秀的作品，磨练自己审美能力。
 
-<div  class= "nav-fig">
-  <figure style="width:30%; height:100%; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[11] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
-  </figure>
-  <figure style="width:45%; height:100%; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[12] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
-  </figure>
-  <figure style="width:30%; height:100%; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[13] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
-  </figure>
+<div class="crop-fig-div" >
+    <div class="crop-fig-div__img">
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[11] }}');width:30%;">
+        <img src="{{ page.image-post[11] }}" alt="Placeholder" height="100%"/>
+      </figure>
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[12] }}');width:38%;">
+      </figure>
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[13] }}');width:30%;">
+      </figure>
+  </div>
 </div>
-
 
 花艺师的体验非常有趣，我想继续下去。通过花的语言，我没准能成为一位艺术家呢？
 

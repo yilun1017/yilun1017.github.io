@@ -106,17 +106,17 @@ Michele 给佛罗伦萨的餐厅涂上了引人注目的绿色墙漆，这让评
 
 Gucci Garden 是一个艺术和时尚的展示空间，墙壁上是来自意大利艺术家 MP5 绘制的裸体主题壁画，这里售卖成衣、古董书、小数码产品和其他饰品。在这里，一切都是独一无二的。Bizzarri 为此定下的概念为：在 Gucci 花园，一切都会繁衍。
 
-<figure class="nav-fig">
-  <figure style="width:25%; height:100%; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[12] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
-  </figure>
-  <figure style="width:25%; height:100%; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[13] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
-  </figure>
-  <figure style="width:40%; height:300px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[14] }}" alt="Placeholder" height="100%"/>
-  </figure>
-</figure>
+<div class="crop-fig-div" >
+    <div class="crop-fig-div__img">
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[12] }}');width:26%;">
+        <img src="{{ page.image-post[12] }}" alt="Placeholder" height="100%"/>
+      </figure>
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[13] }}');width:26%;">
+      </figure>
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[14] }}');width:46%;">
+      </figure>
+  </div>
+</div>
 <figcaption>Max Siedentopf for Gucci Osteria<br>Courtesy of Max Siedentopf</figcaption>
 
 现在又有一家全新的 Gucci Osteria，也是 Bottura 经手的第一家位于美国的餐厅，将在比佛利山庄的罗迪欧大道经重新设计过的 Gucci 精品店顶层开业。Bottura 还透露了接下来在东京银座，也将迎来一家 Gucci Osteria。

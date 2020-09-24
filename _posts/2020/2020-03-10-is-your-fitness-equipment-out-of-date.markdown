@@ -40,14 +40,15 @@ image-post:
 奢侈健身达人<br></b>
 </div>
 
-<figure class="nav-fig">
-  <figure style="width:50%; height:800px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[1] }}" alt="Placeholder" height="100%"/>
-  </figure>
-  <figure style="width:50%; height:800px; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[2] }}" alt="Placeholder" height="100%"/>
-  </figure>
-</figure>
+<div class="crop-fig-div" >
+    <div class="crop-fig-div__img">
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[1] }}');width:48%;">
+        <img src="{{ page.image-post[1] }}" alt="Placeholder" height="100%"/>
+      </figure>
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[2] }}');width:48%;">
+      </figure>
+  </div>
+</div>
 <figcaption>Alexia Clark 自己的健身APP界面。<br>Courtesy of Alexia Clark</figcaption>
 
 私人教练 Alexia Clark 拥有一衣橱令人惊艳的运动装备，其中就包括镶嵌着水钻的白纱运动内衣，以及打着铆钉 logo 的紧身裤，尽管水钻运动衣很容易滑动，而铆钉紧身裤的异物感，会令她极不舒适。
@@ -63,14 +64,15 @@ image-post:
 “我曾穿着它去健身”<br></b>
 </div>
 
-<figure class="nav-fig">
-  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[3] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
-  </figure>
-  <figure style="width:50%; height:100%; margin:5px; overflow:hidden">
-    <img src="{{ page.image-post[4] }}" alt="Placeholder" max-width="100%" max-height="100%" min-width="99%" min-height="99%"/>
-  </figure>
-</figure>
+<div class="crop-fig-div" >
+    <div class="crop-fig-div__img">
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[3] }}');width:48%;">
+        <img src="{{ page.image-post[3] }}" alt="Placeholder" height="100%"/>
+      </figure>
+      <figure class="crop-fig" style="background-image: url('{{ page.image-post[4] }}');width:48%;">
+      </figure>
+  </div>
+</div>
 <figure style="width:80%;margin:auto;">
     <img src="{{ page.image-post[5] }}" alt="Placeholder"/>
     <figcaption>Eli Russell Linnetz设计的一款男性护裆，上面镶满了巴洛克珍珠、水晶和贝壳。Image via ERL</figcaption>
